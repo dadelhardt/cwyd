@@ -1,0 +1,83 @@
+# Cross-dataset relationships (proposed). Used for federated queries and LLM join hints.
+version: "0.1.0"
+
+joinKeys:
+  - id: customer_supplier_pair
+    description: >
+      Most facts are scoped to a customer and a supplier. Use customerId and
+      supplierId together when joining SLM to SCC, DCM, or SRC to avoid
+      mixing suppliers across customers.
+    keys:
+      - name: customerId
+        type: string
+        format: "CUST-####"
+      - name: supplierId
+        type: string
+        format: "SUP-####"
+
+relationships:
+  - id: slm_to_scc
+    from:
+      dataset: slm
+      entity: supplier_connect_enrollment
+    to:
+      dataset: scc
+      entity: purchase_order
+    join:
+      - leftField: customerId
+        rightField: customerId
+      - leftField: supplierId
+        rightField: supplierId
+    llmHint: >
+      Join SLM to SCC when the question involves purchase orders for suppliers
+      enrolled on SCC. Filter SLM.supplyOnService = SCC when the user asks
+      about SCC-only rollout or SCC transactional usage.
+
+  - id: slm_to_dcm
+    from:
+      dataset: slm
+      entity: supplier_connect_enrollment
+    to:
+      dataset: dcm
+      entity: capacity_alert
+    join:
+      - leftField: customerId
+        rightField: customerId
+      - leftField: supplierId
+        rightField: supplierId
+    llmHint: >
+      Join SLM to DCM for capacity alert volume or details per enrolled
+      supplier. A supplier may have DCM alerts only if they appear in DCM with
+      the same supplierId (and typically SCC/DCM/SRC enrollment in SLM).
+
+  - id: slm_to_src
+    from:
+      dataset: slm
+      entity: supplier_connect_enrollment
+    to:
+      dataset: src
+      entity: rfq
+    join:
+      - leftField: customerId
+        rightField: customerId
+      - leftField: supplierId
+        rightField: supplierId
+    llmHint: >
+      Join SLM to SRC for RFQ counts or status by supplier. Use supplyOnService
+      = SRC on SLM when filtering to sourcing rollout.
+
+  - id: multi_service_supplier
+    from:
+      dataset: slm
+      entity: supplier_connect_enrollment
+    to:
+      dataset: slm
+      entity: supplier_connect_enrollment
+    join:
+      - leftField: supplierId
+        rightField: supplierId
+    llmHint: >
+      Aggregate SLM by supplierId to see which SupplyOn services a supplier
+      uses. The same supplierId may appear on multiple SLM rows with different
+      supplyOnService values; SCC/DCM/SRC facts for that supplierId show
+      transactional usage per service.

@@ -1,0 +1,54 @@
+# Shared business vocabulary for LLM grounding (proposed).
+version: "0.1.0"
+
+terms:
+  - id: customer
+    label: Customer (buyer)
+    description: >
+      The OEM or brand-side organization running a SupplyOn rollout. In sim
+      data, identified by customerId (for example CUST-0018) and customerName
+      on SLM rows. SCC, DCM, and SRC fact rows reference the same customerId
+      when a transaction belongs to that customer.
+    synonyms:
+      - customer
+      - buyer
+      - OEM
+      - Kunde
+
+  - id: supplier
+    label: Supplier
+    description: >
+      A trading partner providing parts or services to a customer. supplierId
+      (for example SUP-0073) is the stable key across SLM enrollments and SCC,
+      DCM, and SRC facts. supplierName appears on SLM only; use SLM or a join
+      to show human-readable supplier names on other datasets.
+    synonyms:
+      - supplier
+      - vendor
+      - trading partner
+      - Lieferant
+
+  - id: rollout
+    label: Service rollout
+    description: >
+      Progress of enabling SupplyOn services for customer–supplier pairs. In
+      prototype data, infer rollout from SLM rows (which services are linked to
+      which suppliers) and activity in SCC, DCM, or SRC for the same supplierId.
+    synonyms:
+      - rollout
+      - rollout status
+      - service adoption
+      - onboarding
+
+  - id: supplyon_service
+    label: SupplyOn service
+    description: >
+      One of SCC (collaboration / purchase orders), DCM (capacity alerts), or
+      SRC (RFQs). Encoded on SLM as supplyOnService; fact data lives in the
+      matching dataset file.
+    synonyms:
+      - SupplyOn service
+      - service
+      - SCC
+      - DCM
+      - SRC

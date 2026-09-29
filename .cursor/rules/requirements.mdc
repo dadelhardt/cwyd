@@ -1,0 +1,10 @@
+---
+description: Implement cwyd features from docs/requirements using the implement-requirement skill
+alwaysApply: true
+---
+
+# Requirements
+
+Product behavior is specified in `docs/requirements/`. Before changing product behavior, follow the `implement-requirement` skill.
+
+Personal skills in `~/.cursor/skills/` and Cursor user rules still apply. Do not copy them into this repo. Project-only workflows live in `.cursor/skills/`.

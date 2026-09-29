@@ -1,0 +1,61 @@
+# DCM — semantic mapping (proposed)
+version: "0.1.0"
+datasetId: dcm
+displayName: Demand Capacity Management (DCM)
+serviceCode: DCM
+physicalSource:
+  kind: json
+  path: data/sim/dcm.json
+  rowGrain: One row per capacity alert in the sim file.
+
+entity:
+  id: capacity_alert
+  label: Capacity alert
+  description: >
+    A capacity-related alert raised in DCM between a customer and a supplier.
+    Use for alert volume, open capacity topics, or DCM-side transactional
+    usage. Join to SLM on customerId and supplierId to restrict to suppliers
+    enrolled on DCM (supplyOnService = DCM).
+
+attributes:
+  - id: customer_id
+    physicalField: customerId
+    type: string
+    description: >
+      Customer context for the alert. Same join semantics as SCC and SRC
+      customerId.
+    synonyms:
+      - customer id
+
+  - id: supplier_id
+    physicalField: supplierId
+    type: string
+    description: >
+      Supplier the alert refers to. Join to SLM and SCC/SRC for federated
+      supplier views.
+    synonyms:
+      - supplier id
+
+  - id: capacity_alert_number
+    physicalField: capacityAlertNr
+    type: string
+    description: >
+      Identifier for the capacity alert (CA-###### in sim data). Use as a
+      business key within DCM, not for cross-system joins.
+    synonyms:
+      - capacity alert number
+      - alert number
+      - alert id
+      - Kapazitätsalarm-Nr
+
+  - id: capacity_alert_details
+    physicalField: capacityAlertDetails
+    type: string
+    description: >
+      Free-text summary of the alert. Prefer for display; use counts and
+      filters on supplierId/customerId for analytics unless the user searches
+      by exact text.
+    synonyms:
+      - alert details
+      - capacity details
+      - Alertdetails

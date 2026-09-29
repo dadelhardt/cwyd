@@ -1,0 +1,36 @@
+{
+  "name": "cwyd",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "seed": "node server/seed.ts",
+    "validate:semantic": "node server/validate-semantic.ts",
+    "orchestrator": "services\\.venv\\Scripts\\python.exe -m uvicorn orchestrator.main:app --app-dir services --host 127.0.0.1 --port 8765"
+  },
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "yaml": "^2.9.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9",
+    "@tailwindcss/vite": "^4",
+    "@types/node": "^24",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@vitejs/plugin-react": "^6",
+    "eslint": "^9",
+    "eslint-plugin-react-hooks": "^7",
+    "eslint-plugin-react-refresh": "^0.5",
+    "globals": "^17",
+    "tailwindcss": "^4",
+    "typescript": "~6.0.2",
+    "typescript-eslint": "^8",
+    "vite": "^8"
+  }
+}

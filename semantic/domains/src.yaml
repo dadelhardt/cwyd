@@ -1,0 +1,81 @@
+# SRC — semantic mapping (proposed)
+version: "0.1.0"
+datasetId: src
+displayName: Sourcing (SRC)
+serviceCode: SRC
+physicalSource:
+  kind: json
+  path: data/sim/src.json
+  rowGrain: One row per RFQ in the sim file.
+
+entity:
+  id: rfq
+  label: Request for quotation (RFQ)
+  description: >
+    A sourcing RFQ in SRC between a customer and a supplier. Use for RFQ
+    counts, open vs closed sourcing, and SRC transactional usage. Join to SLM
+    on customerId and supplierId; filter SLM.supplyOnService = SRC for
+    sourcing rollout questions.
+
+attributes:
+  - id: customer_id
+    physicalField: customerId
+    type: string
+    description: >
+      Customer issuing or owning the RFQ. Join key shared with SLM, SCC, and
+      DCM.
+    synonyms:
+      - customer id
+
+  - id: supplier_id
+    physicalField: supplierId
+    type: string
+    description: >
+      Supplier invited or linked to the RFQ. Same supplierId as other datasets
+      for multi-service analysis.
+    synonyms:
+      - supplier id
+
+  - id: rfq_number
+    physicalField: rfqNr
+    type: string
+    description: >
+      RFQ identifier in sim data (RFQ-######). Business key within SRC.
+    synonyms:
+      - RFQ number
+      - rfq nr
+      - request for quotation number
+      - Angebotsanfrage-Nr
+
+  - id: rfq_details
+    physicalField: rfqDetails
+    type: string
+    description: >
+      Short description of the RFQ content. Use in narrative answers; aggregate
+      by supplierId or rfqStatus for metrics.
+    synonyms:
+      - RFQ details
+      - sourcing details
+      - RFQ text
+
+  - id: rfq_status
+    physicalField: rfqStatus
+    type: enum
+    description: >
+      Open or closed state of the RFQ in sim data (lowercase values). Use for
+      pipeline vs completed sourcing questions.
+    synonyms:
+      - RFQ status
+      - sourcing status
+      - Anfragestatus
+
+enums:
+  rfqStatus:
+    - value: new
+      description: >
+        RFQ is open or newly created in the sim model. Treat as active
+        sourcing workload.
+    - value: closed
+      description: >
+        RFQ is finished or no longer open. Treat as completed sourcing for
+        usage metrics.

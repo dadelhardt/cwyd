@@ -1,0 +1,94 @@
+# Supplier Connect / SLM — semantic mapping (proposed)
+version: "0.1.0"
+datasetId: slm
+displayName: Supplier Connect (SLM)
+serviceCode: SLM
+physicalSource:
+  kind: json
+  path: data/sim/slm.json
+  rowGrain: One row per customer–supplier–SupplyOn service enrollment link.
+
+entity:
+  id: supplier_connect_enrollment
+  label: Supplier Connect enrollment
+  description: >
+    Registers which SupplyOn cloud service (SCC, DCM, or SRC) is linked between
+    a customer and a supplier. This is the primary view for rollout status by
+    supplier and service mix. It does not contain purchase orders, alerts, or
+    RFQs; join to scc, dcm, or src on customerId and supplierId for usage.
+
+attributes:
+  - id: customer_name
+    physicalField: customerName
+    type: string
+    description: >
+      Display name of the customer (buyer) in this enrollment row. Not unique;
+      use customerId for joins and counts.
+    synonyms:
+      - customer name
+      - buyer name
+      - Kundenname
+
+  - id: customer_id
+    physicalField: customerId
+    type: string
+    description: >
+      Stable identifier for the customer, format CUST-####. Join key to SCC,
+      DCM, and SRC fact datasets.
+    synonyms:
+      - customer id
+      - customer identifier
+      - Kunden-ID
+
+  - id: supplier_name
+    physicalField: supplierName
+    type: string
+    description: >
+      Display name of the supplier on this enrollment. Prefer supplierId when
+      joining to transactional datasets or counting distinct suppliers.
+    synonyms:
+      - supplier name
+      - vendor name
+      - Lieferantenname
+
+  - id: supplier_id
+    physicalField: supplierId
+    type: string
+    description: >
+      Stable identifier for the supplier, format SUP-####. Primary key for
+      linking rollout (SLM) to SCC, DCM, and SRC activity for the same supplier.
+    synonyms:
+      - supplier id
+      - vendor id
+      - Lieferanten-ID
+
+  - id: supplyon_service
+    physicalField: supplyOnService
+    type: enum
+    description: >
+      Which SupplyOn product this enrollment row activates for the
+      customer–supplier pair. Determines which fact dataset is relevant for
+      transactional questions.
+    synonyms:
+      - SupplyOn service
+      - service
+      - product
+      - enrolled service
+
+enums:
+  supplyOnService:
+    - value: SCC
+      label: SupplyOn Collaboration Center
+      description: >
+        Collaboration and purchase order processes. Transactional detail is in
+        the scc dataset (purchaseOrderNr, poStatus).
+    - value: DCM
+      label: Demand Capacity Management
+      description: >
+        Capacity planning and alerts. Transactional detail is in the dcm
+        dataset (capacityAlertNr, capacityAlertDetails).
+    - value: SRC
+      label: Sourcing
+      description: >
+        RFQ and sourcing workflows. Transactional detail is in the src dataset
+        (rfqNr, rfqStatus).

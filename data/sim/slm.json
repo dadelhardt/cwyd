@@ -1,0 +1,7002 @@
+[
+  {
+    "customerName": "Customer 18",
+    "customerId": "CUST-0018",
+    "supplierName": "Supplier 73",
+    "supplierId": "SUP-0073",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 7",
+    "customerId": "CUST-0007",
+    "supplierName": "Supplier 81",
+    "supplierId": "SUP-0081",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 25",
+    "customerId": "CUST-0025",
+    "supplierName": "Supplier 33",
+    "supplierId": "SUP-0033",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 10",
+    "customerId": "CUST-0010",
+    "supplierName": "Supplier 57",
+    "supplierId": "SUP-0057",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 13",
+    "customerId": "CUST-0013",
+    "supplierName": "Supplier 90",
+    "supplierId": "SUP-0090",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 28",
+    "customerId": "CUST-0028",
+    "supplierName": "Supplier 61",
+    "supplierId": "SUP-0061",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 19",
+    "customerId": "CUST-0019",
+    "supplierName": "Supplier 1",
+    "supplierId": "SUP-0001",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 24",
+    "customerId": "CUST-0024",
+    "supplierName": "Supplier 7",
+    "supplierId": "SUP-0007",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 3",
+    "customerId": "CUST-0003",
+    "supplierName": "Supplier 33",
+    "supplierId": "SUP-0033",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 22",
+    "customerId": "CUST-0022",
+    "supplierName": "Supplier 95",
+    "supplierId": "SUP-0095",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 34",
+    "customerId": "CUST-0034",
+    "supplierName": "Supplier 21",
+    "supplierId": "SUP-0021",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 13",
+    "customerId": "CUST-0013",
+    "supplierName": "Supplier 98",
+    "supplierId": "SUP-0098",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 3",
+    "customerId": "CUST-0003",
+    "supplierName": "Supplier 5",
+    "supplierId": "SUP-0005",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 10",
+    "customerId": "CUST-0010",
+    "supplierName": "Supplier 72",
+    "supplierId": "SUP-0072",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 13",
+    "customerId": "CUST-0013",
+    "supplierName": "Supplier 26",
+    "supplierId": "SUP-0026",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 21",
+    "customerId": "CUST-0021",
+    "supplierName": "Supplier 104",
+    "supplierId": "SUP-0104",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 12",
+    "customerId": "CUST-0012",
+    "supplierName": "Supplier 35",
+    "supplierId": "SUP-0035",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 28",
+    "customerId": "CUST-0028",
+    "supplierName": "Supplier 80",
+    "supplierId": "SUP-0080",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 4",
+    "customerId": "CUST-0004",
+    "supplierName": "Supplier 112",
+    "supplierId": "SUP-0112",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 38",
+    "customerId": "CUST-0038",
+    "supplierName": "Supplier 52",
+    "supplierId": "SUP-0052",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 1",
+    "customerId": "CUST-0001",
+    "supplierName": "Supplier 14",
+    "supplierId": "SUP-0014",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 25",
+    "customerId": "CUST-0025",
+    "supplierName": "Supplier 58",
+    "supplierId": "SUP-0058",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 29",
+    "customerId": "CUST-0029",
+    "supplierName": "Supplier 10",
+    "supplierId": "SUP-0010",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 29",
+    "customerId": "CUST-0029",
+    "supplierName": "Supplier 34",
+    "supplierId": "SUP-0034",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 33",
+    "customerId": "CUST-0033",
+    "supplierName": "Supplier 63",
+    "supplierId": "SUP-0063",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 23",
+    "customerId": "CUST-0023",
+    "supplierName": "Supplier 120",
+    "supplierId": "SUP-0120",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 24",
+    "customerId": "CUST-0024",
+    "supplierName": "Supplier 53",
+    "supplierId": "SUP-0053",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 13",
+    "customerId": "CUST-0013",
+    "supplierName": "Supplier 72",
+    "supplierId": "SUP-0072",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 18",
+    "customerId": "CUST-0018",
+    "supplierName": "Supplier 36",
+    "supplierId": "SUP-0036",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 40",
+    "customerId": "CUST-0040",
+    "supplierName": "Supplier 84",
+    "supplierId": "SUP-0084",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 22",
+    "customerId": "CUST-0022",
+    "supplierName": "Supplier 52",
+    "supplierId": "SUP-0052",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 28",
+    "customerId": "CUST-0028",
+    "supplierName": "Supplier 13",
+    "supplierId": "SUP-0013",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 37",
+    "customerId": "CUST-0037",
+    "supplierName": "Supplier 95",
+    "supplierId": "SUP-0095",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 33",
+    "customerId": "CUST-0033",
+    "supplierName": "Supplier 58",
+    "supplierId": "SUP-0058",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 8",
+    "customerId": "CUST-0008",
+    "supplierName": "Supplier 117",
+    "supplierId": "SUP-0117",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 9",
+    "customerId": "CUST-0009",
+    "supplierName": "Supplier 84",
+    "supplierId": "SUP-0084",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 27",
+    "customerId": "CUST-0027",
+    "supplierName": "Supplier 20",
+    "supplierId": "SUP-0020",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 26",
+    "customerId": "CUST-0026",
+    "supplierName": "Supplier 25",
+    "supplierId": "SUP-0025",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 32",
+    "customerId": "CUST-0032",
+    "supplierName": "Supplier 40",
+    "supplierId": "SUP-0040",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 35",
+    "customerId": "CUST-0035",
+    "supplierName": "Supplier 16",
+    "supplierId": "SUP-0016",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 30",
+    "customerId": "CUST-0030",
+    "supplierName": "Supplier 2",
+    "supplierId": "SUP-0002",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 37",
+    "customerId": "CUST-0037",
+    "supplierName": "Supplier 106",
+    "supplierId": "SUP-0106",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 20",
+    "customerId": "CUST-0020",
+    "supplierName": "Supplier 73",
+    "supplierId": "SUP-0073",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 29",
+    "customerId": "CUST-0029",
+    "supplierName": "Supplier 6",
+    "supplierId": "SUP-0006",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 12",
+    "customerId": "CUST-0012",
+    "supplierName": "Supplier 35",
+    "supplierId": "SUP-0035",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 9",
+    "customerId": "CUST-0009",
+    "supplierName": "Supplier 4",
+    "supplierId": "SUP-0004",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 40",
+    "customerId": "CUST-0040",
+    "supplierName": "Supplier 69",
+    "supplierId": "SUP-0069",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 23",
+    "customerId": "CUST-0023",
+    "supplierName": "Supplier 21",
+    "supplierId": "SUP-0021",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 18",
+    "customerId": "CUST-0018",
+    "supplierName": "Supplier 48",
+    "supplierId": "SUP-0048",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 16",
+    "customerId": "CUST-0016",
+    "supplierName": "Supplier 83",
+    "supplierId": "SUP-0083",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 14",
+    "customerId": "CUST-0014",
+    "supplierName": "Supplier 108",
+    "supplierId": "SUP-0108",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 22",
+    "customerId": "CUST-0022",
+    "supplierName": "Supplier 74",
+    "supplierId": "SUP-0074",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 14",
+    "customerId": "CUST-0014",
+    "supplierName": "Supplier 29",
+    "supplierId": "SUP-0029",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 27",
+    "customerId": "CUST-0027",
+    "supplierName": "Supplier 39",
+    "supplierId": "SUP-0039",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 28",
+    "customerId": "CUST-0028",
+    "supplierName": "Supplier 21",
+    "supplierId": "SUP-0021",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 13",
+    "customerId": "CUST-0013",
+    "supplierName": "Supplier 15",
+    "supplierId": "SUP-0015",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 9",
+    "customerId": "CUST-0009",
+    "supplierName": "Supplier 70",
+    "supplierId": "SUP-0070",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 29",
+    "customerId": "CUST-0029",
+    "supplierName": "Supplier 46",
+    "supplierId": "SUP-0046",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 18",
+    "customerId": "CUST-0018",
+    "supplierName": "Supplier 98",
+    "supplierId": "SUP-0098",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 22",
+    "customerId": "CUST-0022",
+    "supplierName": "Supplier 105",
+    "supplierId": "SUP-0105",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 19",
+    "customerId": "CUST-0019",
+    "supplierName": "Supplier 108",
+    "supplierId": "SUP-0108",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 33",
+    "customerId": "CUST-0033",
+    "supplierName": "Supplier 75",
+    "supplierId": "SUP-0075",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 22",
+    "customerId": "CUST-0022",
+    "supplierName": "Supplier 47",
+    "supplierId": "SUP-0047",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 35",
+    "customerId": "CUST-0035",
+    "supplierName": "Supplier 60",
+    "supplierId": "SUP-0060",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 3",
+    "customerId": "CUST-0003",
+    "supplierName": "Supplier 90",
+    "supplierId": "SUP-0090",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 21",
+    "customerId": "CUST-0021",
+    "supplierName": "Supplier 21",
+    "supplierId": "SUP-0021",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 40",
+    "customerId": "CUST-0040",
+    "supplierName": "Supplier 92",
+    "supplierId": "SUP-0092",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 34",
+    "customerId": "CUST-0034",
+    "supplierName": "Supplier 76",
+    "supplierId": "SUP-0076",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 15",
+    "customerId": "CUST-0015",
+    "supplierName": "Supplier 72",
+    "supplierId": "SUP-0072",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 28",
+    "customerId": "CUST-0028",
+    "supplierName": "Supplier 106",
+    "supplierId": "SUP-0106",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 26",
+    "customerId": "CUST-0026",
+    "supplierName": "Supplier 113",
+    "supplierId": "SUP-0113",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 7",
+    "customerId": "CUST-0007",
+    "supplierName": "Supplier 102",
+    "supplierId": "SUP-0102",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 4",
+    "customerId": "CUST-0004",
+    "supplierName": "Supplier 3",
+    "supplierId": "SUP-0003",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 39",
+    "customerId": "CUST-0039",
+    "supplierName": "Supplier 88",
+    "supplierId": "SUP-0088",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 29",
+    "customerId": "CUST-0029",
+    "supplierName": "Supplier 56",
+    "supplierId": "SUP-0056",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 6",
+    "customerId": "CUST-0006",
+    "supplierName": "Supplier 33",
+    "supplierId": "SUP-0033",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 18",
+    "customerId": "CUST-0018",
+    "supplierName": "Supplier 35",
+    "supplierId": "SUP-0035",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 32",
+    "customerId": "CUST-0032",
+    "supplierName": "Supplier 86",
+    "supplierId": "SUP-0086",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 27",
+    "customerId": "CUST-0027",
+    "supplierName": "Supplier 24",
+    "supplierId": "SUP-0024",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 19",
+    "customerId": "CUST-0019",
+    "supplierName": "Supplier 54",
+    "supplierId": "SUP-0054",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 14",
+    "customerId": "CUST-0014",
+    "supplierName": "Supplier 52",
+    "supplierId": "SUP-0052",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 21",
+    "customerId": "CUST-0021",
+    "supplierName": "Supplier 18",
+    "supplierId": "SUP-0018",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 22",
+    "customerId": "CUST-0022",
+    "supplierName": "Supplier 64",
+    "supplierId": "SUP-0064",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 6",
+    "customerId": "CUST-0006",
+    "supplierName": "Supplier 53",
+    "supplierId": "SUP-0053",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 38",
+    "customerId": "CUST-0038",
+    "supplierName": "Supplier 18",
+    "supplierId": "SUP-0018",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 18",
+    "customerId": "CUST-0018",
+    "supplierName": "Supplier 105",
+    "supplierId": "SUP-0105",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 33",
+    "customerId": "CUST-0033",
+    "supplierName": "Supplier 12",
+    "supplierId": "SUP-0012",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 10",
+    "customerId": "CUST-0010",
+    "supplierName": "Supplier 45",
+    "supplierId": "SUP-0045",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 4",
+    "customerId": "CUST-0004",
+    "supplierName": "Supplier 68",
+    "supplierId": "SUP-0068",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 27",
+    "customerId": "CUST-0027",
+    "supplierName": "Supplier 91",
+    "supplierId": "SUP-0091",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 33",
+    "customerId": "CUST-0033",
+    "supplierName": "Supplier 66",
+    "supplierId": "SUP-0066",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 4",
+    "customerId": "CUST-0004",
+    "supplierName": "Supplier 22",
+    "supplierId": "SUP-0022",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 11",
+    "customerId": "CUST-0011",
+    "supplierName": "Supplier 8",
+    "supplierId": "SUP-0008",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 23",
+    "customerId": "CUST-0023",
+    "supplierName": "Supplier 81",
+    "supplierId": "SUP-0081",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 16",
+    "customerId": "CUST-0016",
+    "supplierName": "Supplier 3",
+    "supplierId": "SUP-0003",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 34",
+    "customerId": "CUST-0034",
+    "supplierName": "Supplier 35",
+    "supplierId": "SUP-0035",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 38",
+    "customerId": "CUST-0038",
+    "supplierName": "Supplier 25",
+    "supplierId": "SUP-0025",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 21",
+    "customerId": "CUST-0021",
+    "supplierName": "Supplier 32",
+    "supplierId": "SUP-0032",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 28",
+    "customerId": "CUST-0028",
+    "supplierName": "Supplier 113",
+    "supplierId": "SUP-0113",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 13",
+    "customerId": "CUST-0013",
+    "supplierName": "Supplier 98",
+    "supplierId": "SUP-0098",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 22",
+    "customerId": "CUST-0022",
+    "supplierName": "Supplier 91",
+    "supplierId": "SUP-0091",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 22",
+    "customerId": "CUST-0022",
+    "supplierName": "Supplier 67",
+    "supplierId": "SUP-0067",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 31",
+    "customerId": "CUST-0031",
+    "supplierName": "Supplier 119",
+    "supplierId": "SUP-0119",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 27",
+    "customerId": "CUST-0027",
+    "supplierName": "Supplier 76",
+    "supplierId": "SUP-0076",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 36",
+    "customerId": "CUST-0036",
+    "supplierName": "Supplier 47",
+    "supplierId": "SUP-0047",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 17",
+    "customerId": "CUST-0017",
+    "supplierName": "Supplier 106",
+    "supplierId": "SUP-0106",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 34",
+    "customerId": "CUST-0034",
+    "supplierName": "Supplier 64",
+    "supplierId": "SUP-0064",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 28",
+    "customerId": "CUST-0028",
+    "supplierName": "Supplier 105",
+    "supplierId": "SUP-0105",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 39",
+    "customerId": "CUST-0039",
+    "supplierName": "Supplier 35",
+    "supplierId": "SUP-0035",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 26",
+    "customerId": "CUST-0026",
+    "supplierName": "Supplier 33",
+    "supplierId": "SUP-0033",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 29",
+    "customerId": "CUST-0029",
+    "supplierName": "Supplier 89",
+    "supplierId": "SUP-0089",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 37",
+    "customerId": "CUST-0037",
+    "supplierName": "Supplier 102",
+    "supplierId": "SUP-0102",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 3",
+    "customerId": "CUST-0003",
+    "supplierName": "Supplier 57",
+    "supplierId": "SUP-0057",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 28",
+    "customerId": "CUST-0028",
+    "supplierName": "Supplier 108",
+    "supplierId": "SUP-0108",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 25",
+    "customerId": "CUST-0025",
+    "supplierName": "Supplier 54",
+    "supplierId": "SUP-0054",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 2",
+    "customerId": "CUST-0002",
+    "supplierName": "Supplier 63",
+    "supplierId": "SUP-0063",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 5",
+    "customerId": "CUST-0005",
+    "supplierName": "Supplier 12",
+    "supplierId": "SUP-0012",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 34",
+    "customerId": "CUST-0034",
+    "supplierName": "Supplier 100",
+    "supplierId": "SUP-0100",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 2",
+    "customerId": "CUST-0002",
+    "supplierName": "Supplier 11",
+    "supplierId": "SUP-0011",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 11",
+    "customerId": "CUST-0011",
+    "supplierName": "Supplier 85",
+    "supplierId": "SUP-0085",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 37",
+    "customerId": "CUST-0037",
+    "supplierName": "Supplier 76",
+    "supplierId": "SUP-0076",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 4",
+    "customerId": "CUST-0004",
+    "supplierName": "Supplier 42",
+    "supplierId": "SUP-0042",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 20",
+    "customerId": "CUST-0020",
+    "supplierName": "Supplier 29",
+    "supplierId": "SUP-0029",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 29",
+    "customerId": "CUST-0029",
+    "supplierName": "Supplier 32",
+    "supplierId": "SUP-0032",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 24",
+    "customerId": "CUST-0024",
+    "supplierName": "Supplier 59",
+    "supplierId": "SUP-0059",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 28",
+    "customerId": "CUST-0028",
+    "supplierName": "Supplier 94",
+    "supplierId": "SUP-0094",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 3",
+    "customerId": "CUST-0003",
+    "supplierName": "Supplier 14",
+    "supplierId": "SUP-0014",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 10",
+    "customerId": "CUST-0010",
+    "supplierName": "Supplier 41",
+    "supplierId": "SUP-0041",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 24",
+    "customerId": "CUST-0024",
+    "supplierName": "Supplier 119",
+    "supplierId": "SUP-0119",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 26",
+    "customerId": "CUST-0026",
+    "supplierName": "Supplier 41",
+    "supplierId": "SUP-0041",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 32",
+    "customerId": "CUST-0032",
+    "supplierName": "Supplier 89",
+    "supplierId": "SUP-0089",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 32",
+    "customerId": "CUST-0032",
+    "supplierName": "Supplier 25",
+    "supplierId": "SUP-0025",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 4",
+    "customerId": "CUST-0004",
+    "supplierName": "Supplier 17",
+    "supplierId": "SUP-0017",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 35",
+    "customerId": "CUST-0035",
+    "supplierName": "Supplier 52",
+    "supplierId": "SUP-0052",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 39",
+    "customerId": "CUST-0039",
+    "supplierName": "Supplier 60",
+    "supplierId": "SUP-0060",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 23",
+    "customerId": "CUST-0023",
+    "supplierName": "Supplier 18",
+    "supplierId": "SUP-0018",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 31",
+    "customerId": "CUST-0031",
+    "supplierName": "Supplier 25",
+    "supplierId": "SUP-0025",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 27",
+    "customerId": "CUST-0027",
+    "supplierName": "Supplier 17",
+    "supplierId": "SUP-0017",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 9",
+    "customerId": "CUST-0009",
+    "supplierName": "Supplier 67",
+    "supplierId": "SUP-0067",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 30",
+    "customerId": "CUST-0030",
+    "supplierName": "Supplier 63",
+    "supplierId": "SUP-0063",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 24",
+    "customerId": "CUST-0024",
+    "supplierName": "Supplier 115",
+    "supplierId": "SUP-0115",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 14",
+    "customerId": "CUST-0014",
+    "supplierName": "Supplier 6",
+    "supplierId": "SUP-0006",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 11",
+    "customerId": "CUST-0011",
+    "supplierName": "Supplier 92",
+    "supplierId": "SUP-0092",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 8",
+    "customerId": "CUST-0008",
+    "supplierName": "Supplier 55",
+    "supplierId": "SUP-0055",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 8",
+    "customerId": "CUST-0008",
+    "supplierName": "Supplier 61",
+    "supplierId": "SUP-0061",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 6",
+    "customerId": "CUST-0006",
+    "supplierName": "Supplier 11",
+    "supplierId": "SUP-0011",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 19",
+    "customerId": "CUST-0019",
+    "supplierName": "Supplier 26",
+    "supplierId": "SUP-0026",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 20",
+    "customerId": "CUST-0020",
+    "supplierName": "Supplier 75",
+    "supplierId": "SUP-0075",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 40",
+    "customerId": "CUST-0040",
+    "supplierName": "Supplier 20",
+    "supplierId": "SUP-0020",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 9",
+    "customerId": "CUST-0009",
+    "supplierName": "Supplier 42",
+    "supplierId": "SUP-0042",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 18",
+    "customerId": "CUST-0018",
+    "supplierName": "Supplier 92",
+    "supplierId": "SUP-0092",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 20",
+    "customerId": "CUST-0020",
+    "supplierName": "Supplier 31",
+    "supplierId": "SUP-0031",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 15",
+    "customerId": "CUST-0015",
+    "supplierName": "Supplier 104",
+    "supplierId": "SUP-0104",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 21",
+    "customerId": "CUST-0021",
+    "supplierName": "Supplier 31",
+    "supplierId": "SUP-0031",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 3",
+    "customerId": "CUST-0003",
+    "supplierName": "Supplier 80",
+    "supplierId": "SUP-0080",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 27",
+    "customerId": "CUST-0027",
+    "supplierName": "Supplier 92",
+    "supplierId": "SUP-0092",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 24",
+    "customerId": "CUST-0024",
+    "supplierName": "Supplier 7",
+    "supplierId": "SUP-0007",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 21",
+    "customerId": "CUST-0021",
+    "supplierName": "Supplier 58",
+    "supplierId": "SUP-0058",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 24",
+    "customerId": "CUST-0024",
+    "supplierName": "Supplier 55",
+    "supplierId": "SUP-0055",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 1",
+    "customerId": "CUST-0001",
+    "supplierName": "Supplier 85",
+    "supplierId": "SUP-0085",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 15",
+    "customerId": "CUST-0015",
+    "supplierName": "Supplier 22",
+    "supplierId": "SUP-0022",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 12",
+    "customerId": "CUST-0012",
+    "supplierName": "Supplier 112",
+    "supplierId": "SUP-0112",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 19",
+    "customerId": "CUST-0019",
+    "supplierName": "Supplier 109",
+    "supplierId": "SUP-0109",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 20",
+    "customerId": "CUST-0020",
+    "supplierName": "Supplier 69",
+    "supplierId": "SUP-0069",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 31",
+    "customerId": "CUST-0031",
+    "supplierName": "Supplier 57",
+    "supplierId": "SUP-0057",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 24",
+    "customerId": "CUST-0024",
+    "supplierName": "Supplier 86",
+    "supplierId": "SUP-0086",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 20",
+    "customerId": "CUST-0020",
+    "supplierName": "Supplier 100",
+    "supplierId": "SUP-0100",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 3",
+    "customerId": "CUST-0003",
+    "supplierName": "Supplier 110",
+    "supplierId": "SUP-0110",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 28",
+    "customerId": "CUST-0028",
+    "supplierName": "Supplier 59",
+    "supplierId": "SUP-0059",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 35",
+    "customerId": "CUST-0035",
+    "supplierName": "Supplier 74",
+    "supplierId": "SUP-0074",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 40",
+    "customerId": "CUST-0040",
+    "supplierName": "Supplier 119",
+    "supplierId": "SUP-0119",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 39",
+    "customerId": "CUST-0039",
+    "supplierName": "Supplier 98",
+    "supplierId": "SUP-0098",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 4",
+    "customerId": "CUST-0004",
+    "supplierName": "Supplier 20",
+    "supplierId": "SUP-0020",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 20",
+    "customerId": "CUST-0020",
+    "supplierName": "Supplier 5",
+    "supplierId": "SUP-0005",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 32",
+    "customerId": "CUST-0032",
+    "supplierName": "Supplier 82",
+    "supplierId": "SUP-0082",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 19",
+    "customerId": "CUST-0019",
+    "supplierName": "Supplier 101",
+    "supplierId": "SUP-0101",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 11",
+    "customerId": "CUST-0011",
+    "supplierName": "Supplier 79",
+    "supplierId": "SUP-0079",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 29",
+    "customerId": "CUST-0029",
+    "supplierName": "Supplier 45",
+    "supplierId": "SUP-0045",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 10",
+    "customerId": "CUST-0010",
+    "supplierName": "Supplier 17",
+    "supplierId": "SUP-0017",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 26",
+    "customerId": "CUST-0026",
+    "supplierName": "Supplier 45",
+    "supplierId": "SUP-0045",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 32",
+    "customerId": "CUST-0032",
+    "supplierName": "Supplier 50",
+    "supplierId": "SUP-0050",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 28",
+    "customerId": "CUST-0028",
+    "supplierName": "Supplier 2",
+    "supplierId": "SUP-0002",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 24",
+    "customerId": "CUST-0024",
+    "supplierName": "Supplier 31",
+    "supplierId": "SUP-0031",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 16",
+    "customerId": "CUST-0016",
+    "supplierName": "Supplier 57",
+    "supplierId": "SUP-0057",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 13",
+    "customerId": "CUST-0013",
+    "supplierName": "Supplier 76",
+    "supplierId": "SUP-0076",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 40",
+    "customerId": "CUST-0040",
+    "supplierName": "Supplier 64",
+    "supplierId": "SUP-0064",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 3",
+    "customerId": "CUST-0003",
+    "supplierName": "Supplier 72",
+    "supplierId": "SUP-0072",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 18",
+    "customerId": "CUST-0018",
+    "supplierName": "Supplier 96",
+    "supplierId": "SUP-0096",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 16",
+    "customerId": "CUST-0016",
+    "supplierName": "Supplier 101",
+    "supplierId": "SUP-0101",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 40",
+    "customerId": "CUST-0040",
+    "supplierName": "Supplier 21",
+    "supplierId": "SUP-0021",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 29",
+    "customerId": "CUST-0029",
+    "supplierName": "Supplier 82",
+    "supplierId": "SUP-0082",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 26",
+    "customerId": "CUST-0026",
+    "supplierName": "Supplier 66",
+    "supplierId": "SUP-0066",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 1",
+    "customerId": "CUST-0001",
+    "supplierName": "Supplier 93",
+    "supplierId": "SUP-0093",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 37",
+    "customerId": "CUST-0037",
+    "supplierName": "Supplier 12",
+    "supplierId": "SUP-0012",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 21",
+    "customerId": "CUST-0021",
+    "supplierName": "Supplier 5",
+    "supplierId": "SUP-0005",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 26",
+    "customerId": "CUST-0026",
+    "supplierName": "Supplier 90",
+    "supplierId": "SUP-0090",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 34",
+    "customerId": "CUST-0034",
+    "supplierName": "Supplier 49",
+    "supplierId": "SUP-0049",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 30",
+    "customerId": "CUST-0030",
+    "supplierName": "Supplier 24",
+    "supplierId": "SUP-0024",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 26",
+    "customerId": "CUST-0026",
+    "supplierName": "Supplier 6",
+    "supplierId": "SUP-0006",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 24",
+    "customerId": "CUST-0024",
+    "supplierName": "Supplier 103",
+    "supplierId": "SUP-0103",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 17",
+    "customerId": "CUST-0017",
+    "supplierName": "Supplier 71",
+    "supplierId": "SUP-0071",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 6",
+    "customerId": "CUST-0006",
+    "supplierName": "Supplier 24",
+    "supplierId": "SUP-0024",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 12",
+    "customerId": "CUST-0012",
+    "supplierName": "Supplier 88",
+    "supplierId": "SUP-0088",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 18",
+    "customerId": "CUST-0018",
+    "supplierName": "Supplier 114",
+    "supplierId": "SUP-0114",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 27",
+    "customerId": "CUST-0027",
+    "supplierName": "Supplier 41",
+    "supplierId": "SUP-0041",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 28",
+    "customerId": "CUST-0028",
+    "supplierName": "Supplier 107",
+    "supplierId": "SUP-0107",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 21",
+    "customerId": "CUST-0021",
+    "supplierName": "Supplier 110",
+    "supplierId": "SUP-0110",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 7",
+    "customerId": "CUST-0007",
+    "supplierName": "Supplier 28",
+    "supplierId": "SUP-0028",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 21",
+    "customerId": "CUST-0021",
+    "supplierName": "Supplier 118",
+    "supplierId": "SUP-0118",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 27",
+    "customerId": "CUST-0027",
+    "supplierName": "Supplier 3",
+    "supplierId": "SUP-0003",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 11",
+    "customerId": "CUST-0011",
+    "supplierName": "Supplier 119",
+    "supplierId": "SUP-0119",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 38",
+    "customerId": "CUST-0038",
+    "supplierName": "Supplier 27",
+    "supplierId": "SUP-0027",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 16",
+    "customerId": "CUST-0016",
+    "supplierName": "Supplier 62",
+    "supplierId": "SUP-0062",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 38",
+    "customerId": "CUST-0038",
+    "supplierName": "Supplier 35",
+    "supplierId": "SUP-0035",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 21",
+    "customerId": "CUST-0021",
+    "supplierName": "Supplier 38",
+    "supplierId": "SUP-0038",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 8",
+    "customerId": "CUST-0008",
+    "supplierName": "Supplier 54",
+    "supplierId": "SUP-0054",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 27",
+    "customerId": "CUST-0027",
+    "supplierName": "Supplier 108",
+    "supplierId": "SUP-0108",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 24",
+    "customerId": "CUST-0024",
+    "supplierName": "Supplier 107",
+    "supplierId": "SUP-0107",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 26",
+    "customerId": "CUST-0026",
+    "supplierName": "Supplier 54",
+    "supplierId": "SUP-0054",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 27",
+    "customerId": "CUST-0027",
+    "supplierName": "Supplier 71",
+    "supplierId": "SUP-0071",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 7",
+    "customerId": "CUST-0007",
+    "supplierName": "Supplier 50",
+    "supplierId": "SUP-0050",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 16",
+    "customerId": "CUST-0016",
+    "supplierName": "Supplier 86",
+    "supplierId": "SUP-0086",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 6",
+    "customerId": "CUST-0006",
+    "supplierName": "Supplier 3",
+    "supplierId": "SUP-0003",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 2",
+    "customerId": "CUST-0002",
+    "supplierName": "Supplier 34",
+    "supplierId": "SUP-0034",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 6",
+    "customerId": "CUST-0006",
+    "supplierName": "Supplier 84",
+    "supplierId": "SUP-0084",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 12",
+    "customerId": "CUST-0012",
+    "supplierName": "Supplier 26",
+    "supplierId": "SUP-0026",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 14",
+    "customerId": "CUST-0014",
+    "supplierName": "Supplier 41",
+    "supplierId": "SUP-0041",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 33",
+    "customerId": "CUST-0033",
+    "supplierName": "Supplier 57",
+    "supplierId": "SUP-0057",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 14",
+    "customerId": "CUST-0014",
+    "supplierName": "Supplier 24",
+    "supplierId": "SUP-0024",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 39",
+    "customerId": "CUST-0039",
+    "supplierName": "Supplier 104",
+    "supplierId": "SUP-0104",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 27",
+    "customerId": "CUST-0027",
+    "supplierName": "Supplier 21",
+    "supplierId": "SUP-0021",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 38",
+    "customerId": "CUST-0038",
+    "supplierName": "Supplier 91",
+    "supplierId": "SUP-0091",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 7",
+    "customerId": "CUST-0007",
+    "supplierName": "Supplier 46",
+    "supplierId": "SUP-0046",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 7",
+    "customerId": "CUST-0007",
+    "supplierName": "Supplier 69",
+    "supplierId": "SUP-0069",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 4",
+    "customerId": "CUST-0004",
+    "supplierName": "Supplier 103",
+    "supplierId": "SUP-0103",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 24",
+    "customerId": "CUST-0024",
+    "supplierName": "Supplier 63",
+    "supplierId": "SUP-0063",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 28",
+    "customerId": "CUST-0028",
+    "supplierName": "Supplier 64",
+    "supplierId": "SUP-0064",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 36",
+    "customerId": "CUST-0036",
+    "supplierName": "Supplier 109",
+    "supplierId": "SUP-0109",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 37",
+    "customerId": "CUST-0037",
+    "supplierName": "Supplier 28",
+    "supplierId": "SUP-0028",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 22",
+    "customerId": "CUST-0022",
+    "supplierName": "Supplier 85",
+    "supplierId": "SUP-0085",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 15",
+    "customerId": "CUST-0015",
+    "supplierName": "Supplier 39",
+    "supplierId": "SUP-0039",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 35",
+    "customerId": "CUST-0035",
+    "supplierName": "Supplier 78",
+    "supplierId": "SUP-0078",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 24",
+    "customerId": "CUST-0024",
+    "supplierName": "Supplier 29",
+    "supplierId": "SUP-0029",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 30",
+    "customerId": "CUST-0030",
+    "supplierName": "Supplier 63",
+    "supplierId": "SUP-0063",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 40",
+    "customerId": "CUST-0040",
+    "supplierName": "Supplier 50",
+    "supplierId": "SUP-0050",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 2",
+    "customerId": "CUST-0002",
+    "supplierName": "Supplier 52",
+    "supplierId": "SUP-0052",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 5",
+    "customerId": "CUST-0005",
+    "supplierName": "Supplier 6",
+    "supplierId": "SUP-0006",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 22",
+    "customerId": "CUST-0022",
+    "supplierName": "Supplier 92",
+    "supplierId": "SUP-0092",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 40",
+    "customerId": "CUST-0040",
+    "supplierName": "Supplier 46",
+    "supplierId": "SUP-0046",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 14",
+    "customerId": "CUST-0014",
+    "supplierName": "Supplier 53",
+    "supplierId": "SUP-0053",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 24",
+    "customerId": "CUST-0024",
+    "supplierName": "Supplier 35",
+    "supplierId": "SUP-0035",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 34",
+    "customerId": "CUST-0034",
+    "supplierName": "Supplier 14",
+    "supplierId": "SUP-0014",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 38",
+    "customerId": "CUST-0038",
+    "supplierName": "Supplier 15",
+    "supplierId": "SUP-0015",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 24",
+    "customerId": "CUST-0024",
+    "supplierName": "Supplier 91",
+    "supplierId": "SUP-0091",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 36",
+    "customerId": "CUST-0036",
+    "supplierName": "Supplier 75",
+    "supplierId": "SUP-0075",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 9",
+    "customerId": "CUST-0009",
+    "supplierName": "Supplier 102",
+    "supplierId": "SUP-0102",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 17",
+    "customerId": "CUST-0017",
+    "supplierName": "Supplier 55",
+    "supplierId": "SUP-0055",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 3",
+    "customerId": "CUST-0003",
+    "supplierName": "Supplier 48",
+    "supplierId": "SUP-0048",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 17",
+    "customerId": "CUST-0017",
+    "supplierName": "Supplier 58",
+    "supplierId": "SUP-0058",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 31",
+    "customerId": "CUST-0031",
+    "supplierName": "Supplier 116",
+    "supplierId": "SUP-0116",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 8",
+    "customerId": "CUST-0008",
+    "supplierName": "Supplier 15",
+    "supplierId": "SUP-0015",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 40",
+    "customerId": "CUST-0040",
+    "supplierName": "Supplier 96",
+    "supplierId": "SUP-0096",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 10",
+    "customerId": "CUST-0010",
+    "supplierName": "Supplier 107",
+    "supplierId": "SUP-0107",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 33",
+    "customerId": "CUST-0033",
+    "supplierName": "Supplier 62",
+    "supplierId": "SUP-0062",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 34",
+    "customerId": "CUST-0034",
+    "supplierName": "Supplier 1",
+    "supplierId": "SUP-0001",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 10",
+    "customerId": "CUST-0010",
+    "supplierName": "Supplier 112",
+    "supplierId": "SUP-0112",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 39",
+    "customerId": "CUST-0039",
+    "supplierName": "Supplier 2",
+    "supplierId": "SUP-0002",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 4",
+    "customerId": "CUST-0004",
+    "supplierName": "Supplier 76",
+    "supplierId": "SUP-0076",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 32",
+    "customerId": "CUST-0032",
+    "supplierName": "Supplier 83",
+    "supplierId": "SUP-0083",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 10",
+    "customerId": "CUST-0010",
+    "supplierName": "Supplier 102",
+    "supplierId": "SUP-0102",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 4",
+    "customerId": "CUST-0004",
+    "supplierName": "Supplier 45",
+    "supplierId": "SUP-0045",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 40",
+    "customerId": "CUST-0040",
+    "supplierName": "Supplier 109",
+    "supplierId": "SUP-0109",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 2",
+    "customerId": "CUST-0002",
+    "supplierName": "Supplier 25",
+    "supplierId": "SUP-0025",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 38",
+    "customerId": "CUST-0038",
+    "supplierName": "Supplier 5",
+    "supplierId": "SUP-0005",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 38",
+    "customerId": "CUST-0038",
+    "supplierName": "Supplier 115",
+    "supplierId": "SUP-0115",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 15",
+    "customerId": "CUST-0015",
+    "supplierName": "Supplier 18",
+    "supplierId": "SUP-0018",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 26",
+    "customerId": "CUST-0026",
+    "supplierName": "Supplier 9",
+    "supplierId": "SUP-0009",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 27",
+    "customerId": "CUST-0027",
+    "supplierName": "Supplier 73",
+    "supplierId": "SUP-0073",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 36",
+    "customerId": "CUST-0036",
+    "supplierName": "Supplier 8",
+    "supplierId": "SUP-0008",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 17",
+    "customerId": "CUST-0017",
+    "supplierName": "Supplier 75",
+    "supplierId": "SUP-0075",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 18",
+    "customerId": "CUST-0018",
+    "supplierName": "Supplier 27",
+    "supplierId": "SUP-0027",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 8",
+    "customerId": "CUST-0008",
+    "supplierName": "Supplier 113",
+    "supplierId": "SUP-0113",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 25",
+    "customerId": "CUST-0025",
+    "supplierName": "Supplier 73",
+    "supplierId": "SUP-0073",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 17",
+    "customerId": "CUST-0017",
+    "supplierName": "Supplier 52",
+    "supplierId": "SUP-0052",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 29",
+    "customerId": "CUST-0029",
+    "supplierName": "Supplier 52",
+    "supplierId": "SUP-0052",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 26",
+    "customerId": "CUST-0026",
+    "supplierName": "Supplier 75",
+    "supplierId": "SUP-0075",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 35",
+    "customerId": "CUST-0035",
+    "supplierName": "Supplier 106",
+    "supplierId": "SUP-0106",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 6",
+    "customerId": "CUST-0006",
+    "supplierName": "Supplier 94",
+    "supplierId": "SUP-0094",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 17",
+    "customerId": "CUST-0017",
+    "supplierName": "Supplier 79",
+    "supplierId": "SUP-0079",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 37",
+    "customerId": "CUST-0037",
+    "supplierName": "Supplier 118",
+    "supplierId": "SUP-0118",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 37",
+    "customerId": "CUST-0037",
+    "supplierName": "Supplier 111",
+    "supplierId": "SUP-0111",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 35",
+    "customerId": "CUST-0035",
+    "supplierName": "Supplier 60",
+    "supplierId": "SUP-0060",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 32",
+    "customerId": "CUST-0032",
+    "supplierName": "Supplier 60",
+    "supplierId": "SUP-0060",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 15",
+    "customerId": "CUST-0015",
+    "supplierName": "Supplier 87",
+    "supplierId": "SUP-0087",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 38",
+    "customerId": "CUST-0038",
+    "supplierName": "Supplier 8",
+    "supplierId": "SUP-0008",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 12",
+    "customerId": "CUST-0012",
+    "supplierName": "Supplier 56",
+    "supplierId": "SUP-0056",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 11",
+    "customerId": "CUST-0011",
+    "supplierName": "Supplier 45",
+    "supplierId": "SUP-0045",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 29",
+    "customerId": "CUST-0029",
+    "supplierName": "Supplier 4",
+    "supplierId": "SUP-0004",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 2",
+    "customerId": "CUST-0002",
+    "supplierName": "Supplier 31",
+    "supplierId": "SUP-0031",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 30",
+    "customerId": "CUST-0030",
+    "supplierName": "Supplier 11",
+    "supplierId": "SUP-0011",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 14",
+    "customerId": "CUST-0014",
+    "supplierName": "Supplier 55",
+    "supplierId": "SUP-0055",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 13",
+    "customerId": "CUST-0013",
+    "supplierName": "Supplier 71",
+    "supplierId": "SUP-0071",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 30",
+    "customerId": "CUST-0030",
+    "supplierName": "Supplier 105",
+    "supplierId": "SUP-0105",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 15",
+    "customerId": "CUST-0015",
+    "supplierName": "Supplier 58",
+    "supplierId": "SUP-0058",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 12",
+    "customerId": "CUST-0012",
+    "supplierName": "Supplier 118",
+    "supplierId": "SUP-0118",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 12",
+    "customerId": "CUST-0012",
+    "supplierName": "Supplier 50",
+    "supplierId": "SUP-0050",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 8",
+    "customerId": "CUST-0008",
+    "supplierName": "Supplier 43",
+    "supplierId": "SUP-0043",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 23",
+    "customerId": "CUST-0023",
+    "supplierName": "Supplier 95",
+    "supplierId": "SUP-0095",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 37",
+    "customerId": "CUST-0037",
+    "supplierName": "Supplier 105",
+    "supplierId": "SUP-0105",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 16",
+    "customerId": "CUST-0016",
+    "supplierName": "Supplier 62",
+    "supplierId": "SUP-0062",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 3",
+    "customerId": "CUST-0003",
+    "supplierName": "Supplier 31",
+    "supplierId": "SUP-0031",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 6",
+    "customerId": "CUST-0006",
+    "supplierName": "Supplier 3",
+    "supplierId": "SUP-0003",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 10",
+    "customerId": "CUST-0010",
+    "supplierName": "Supplier 21",
+    "supplierId": "SUP-0021",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 39",
+    "customerId": "CUST-0039",
+    "supplierName": "Supplier 46",
+    "supplierId": "SUP-0046",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 35",
+    "customerId": "CUST-0035",
+    "supplierName": "Supplier 87",
+    "supplierId": "SUP-0087",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 33",
+    "customerId": "CUST-0033",
+    "supplierName": "Supplier 32",
+    "supplierId": "SUP-0032",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 3",
+    "customerId": "CUST-0003",
+    "supplierName": "Supplier 31",
+    "supplierId": "SUP-0031",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 36",
+    "customerId": "CUST-0036",
+    "supplierName": "Supplier 91",
+    "supplierId": "SUP-0091",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 25",
+    "customerId": "CUST-0025",
+    "supplierName": "Supplier 31",
+    "supplierId": "SUP-0031",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 36",
+    "customerId": "CUST-0036",
+    "supplierName": "Supplier 33",
+    "supplierId": "SUP-0033",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 26",
+    "customerId": "CUST-0026",
+    "supplierName": "Supplier 76",
+    "supplierId": "SUP-0076",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 17",
+    "customerId": "CUST-0017",
+    "supplierName": "Supplier 110",
+    "supplierId": "SUP-0110",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 4",
+    "customerId": "CUST-0004",
+    "supplierName": "Supplier 99",
+    "supplierId": "SUP-0099",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 34",
+    "customerId": "CUST-0034",
+    "supplierName": "Supplier 87",
+    "supplierId": "SUP-0087",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 34",
+    "customerId": "CUST-0034",
+    "supplierName": "Supplier 15",
+    "supplierId": "SUP-0015",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 35",
+    "customerId": "CUST-0035",
+    "supplierName": "Supplier 68",
+    "supplierId": "SUP-0068",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 22",
+    "customerId": "CUST-0022",
+    "supplierName": "Supplier 45",
+    "supplierId": "SUP-0045",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 39",
+    "customerId": "CUST-0039",
+    "supplierName": "Supplier 35",
+    "supplierId": "SUP-0035",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 22",
+    "customerId": "CUST-0022",
+    "supplierName": "Supplier 69",
+    "supplierId": "SUP-0069",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 36",
+    "customerId": "CUST-0036",
+    "supplierName": "Supplier 11",
+    "supplierId": "SUP-0011",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 40",
+    "customerId": "CUST-0040",
+    "supplierName": "Supplier 35",
+    "supplierId": "SUP-0035",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 13",
+    "customerId": "CUST-0013",
+    "supplierName": "Supplier 30",
+    "supplierId": "SUP-0030",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 36",
+    "customerId": "CUST-0036",
+    "supplierName": "Supplier 28",
+    "supplierId": "SUP-0028",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 16",
+    "customerId": "CUST-0016",
+    "supplierName": "Supplier 78",
+    "supplierId": "SUP-0078",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 24",
+    "customerId": "CUST-0024",
+    "supplierName": "Supplier 22",
+    "supplierId": "SUP-0022",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 15",
+    "customerId": "CUST-0015",
+    "supplierName": "Supplier 72",
+    "supplierId": "SUP-0072",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 20",
+    "customerId": "CUST-0020",
+    "supplierName": "Supplier 58",
+    "supplierId": "SUP-0058",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 28",
+    "customerId": "CUST-0028",
+    "supplierName": "Supplier 27",
+    "supplierId": "SUP-0027",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 6",
+    "customerId": "CUST-0006",
+    "supplierName": "Supplier 75",
+    "supplierId": "SUP-0075",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 35",
+    "customerId": "CUST-0035",
+    "supplierName": "Supplier 21",
+    "supplierId": "SUP-0021",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 31",
+    "customerId": "CUST-0031",
+    "supplierName": "Supplier 64",
+    "supplierId": "SUP-0064",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 20",
+    "customerId": "CUST-0020",
+    "supplierName": "Supplier 4",
+    "supplierId": "SUP-0004",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 20",
+    "customerId": "CUST-0020",
+    "supplierName": "Supplier 96",
+    "supplierId": "SUP-0096",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 23",
+    "customerId": "CUST-0023",
+    "supplierName": "Supplier 75",
+    "supplierId": "SUP-0075",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 40",
+    "customerId": "CUST-0040",
+    "supplierName": "Supplier 101",
+    "supplierId": "SUP-0101",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 34",
+    "customerId": "CUST-0034",
+    "supplierName": "Supplier 1",
+    "supplierId": "SUP-0001",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 4",
+    "customerId": "CUST-0004",
+    "supplierName": "Supplier 63",
+    "supplierId": "SUP-0063",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 33",
+    "customerId": "CUST-0033",
+    "supplierName": "Supplier 29",
+    "supplierId": "SUP-0029",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 12",
+    "customerId": "CUST-0012",
+    "supplierName": "Supplier 16",
+    "supplierId": "SUP-0016",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 30",
+    "customerId": "CUST-0030",
+    "supplierName": "Supplier 88",
+    "supplierId": "SUP-0088",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 35",
+    "customerId": "CUST-0035",
+    "supplierName": "Supplier 60",
+    "supplierId": "SUP-0060",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 35",
+    "customerId": "CUST-0035",
+    "supplierName": "Supplier 85",
+    "supplierId": "SUP-0085",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 3",
+    "customerId": "CUST-0003",
+    "supplierName": "Supplier 24",
+    "supplierId": "SUP-0024",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 12",
+    "customerId": "CUST-0012",
+    "supplierName": "Supplier 75",
+    "supplierId": "SUP-0075",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 29",
+    "customerId": "CUST-0029",
+    "supplierName": "Supplier 117",
+    "supplierId": "SUP-0117",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 32",
+    "customerId": "CUST-0032",
+    "supplierName": "Supplier 30",
+    "supplierId": "SUP-0030",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 21",
+    "customerId": "CUST-0021",
+    "supplierName": "Supplier 37",
+    "supplierId": "SUP-0037",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 31",
+    "customerId": "CUST-0031",
+    "supplierName": "Supplier 120",
+    "supplierId": "SUP-0120",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 40",
+    "customerId": "CUST-0040",
+    "supplierName": "Supplier 98",
+    "supplierId": "SUP-0098",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 25",
+    "customerId": "CUST-0025",
+    "supplierName": "Supplier 104",
+    "supplierId": "SUP-0104",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 23",
+    "customerId": "CUST-0023",
+    "supplierName": "Supplier 45",
+    "supplierId": "SUP-0045",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 9",
+    "customerId": "CUST-0009",
+    "supplierName": "Supplier 45",
+    "supplierId": "SUP-0045",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 28",
+    "customerId": "CUST-0028",
+    "supplierName": "Supplier 26",
+    "supplierId": "SUP-0026",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 12",
+    "customerId": "CUST-0012",
+    "supplierName": "Supplier 94",
+    "supplierId": "SUP-0094",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 8",
+    "customerId": "CUST-0008",
+    "supplierName": "Supplier 18",
+    "supplierId": "SUP-0018",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 14",
+    "customerId": "CUST-0014",
+    "supplierName": "Supplier 117",
+    "supplierId": "SUP-0117",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 30",
+    "customerId": "CUST-0030",
+    "supplierName": "Supplier 108",
+    "supplierId": "SUP-0108",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 7",
+    "customerId": "CUST-0007",
+    "supplierName": "Supplier 40",
+    "supplierId": "SUP-0040",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 29",
+    "customerId": "CUST-0029",
+    "supplierName": "Supplier 108",
+    "supplierId": "SUP-0108",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 28",
+    "customerId": "CUST-0028",
+    "supplierName": "Supplier 101",
+    "supplierId": "SUP-0101",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 11",
+    "customerId": "CUST-0011",
+    "supplierName": "Supplier 30",
+    "supplierId": "SUP-0030",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 39",
+    "customerId": "CUST-0039",
+    "supplierName": "Supplier 28",
+    "supplierId": "SUP-0028",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 33",
+    "customerId": "CUST-0033",
+    "supplierName": "Supplier 68",
+    "supplierId": "SUP-0068",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 38",
+    "customerId": "CUST-0038",
+    "supplierName": "Supplier 109",
+    "supplierId": "SUP-0109",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 8",
+    "customerId": "CUST-0008",
+    "supplierName": "Supplier 23",
+    "supplierId": "SUP-0023",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 17",
+    "customerId": "CUST-0017",
+    "supplierName": "Supplier 107",
+    "supplierId": "SUP-0107",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 2",
+    "customerId": "CUST-0002",
+    "supplierName": "Supplier 8",
+    "supplierId": "SUP-0008",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 6",
+    "customerId": "CUST-0006",
+    "supplierName": "Supplier 47",
+    "supplierId": "SUP-0047",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 9",
+    "customerId": "CUST-0009",
+    "supplierName": "Supplier 105",
+    "supplierId": "SUP-0105",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 8",
+    "customerId": "CUST-0008",
+    "supplierName": "Supplier 5",
+    "supplierId": "SUP-0005",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 36",
+    "customerId": "CUST-0036",
+    "supplierName": "Supplier 113",
+    "supplierId": "SUP-0113",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 14",
+    "customerId": "CUST-0014",
+    "supplierName": "Supplier 60",
+    "supplierId": "SUP-0060",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 11",
+    "customerId": "CUST-0011",
+    "supplierName": "Supplier 28",
+    "supplierId": "SUP-0028",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 20",
+    "customerId": "CUST-0020",
+    "supplierName": "Supplier 57",
+    "supplierId": "SUP-0057",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 3",
+    "customerId": "CUST-0003",
+    "supplierName": "Supplier 65",
+    "supplierId": "SUP-0065",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 27",
+    "customerId": "CUST-0027",
+    "supplierName": "Supplier 62",
+    "supplierId": "SUP-0062",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 22",
+    "customerId": "CUST-0022",
+    "supplierName": "Supplier 18",
+    "supplierId": "SUP-0018",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 10",
+    "customerId": "CUST-0010",
+    "supplierName": "Supplier 40",
+    "supplierId": "SUP-0040",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 17",
+    "customerId": "CUST-0017",
+    "supplierName": "Supplier 58",
+    "supplierId": "SUP-0058",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 18",
+    "customerId": "CUST-0018",
+    "supplierName": "Supplier 63",
+    "supplierId": "SUP-0063",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 30",
+    "customerId": "CUST-0030",
+    "supplierName": "Supplier 60",
+    "supplierId": "SUP-0060",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 12",
+    "customerId": "CUST-0012",
+    "supplierName": "Supplier 3",
+    "supplierId": "SUP-0003",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 37",
+    "customerId": "CUST-0037",
+    "supplierName": "Supplier 53",
+    "supplierId": "SUP-0053",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 17",
+    "customerId": "CUST-0017",
+    "supplierName": "Supplier 76",
+    "supplierId": "SUP-0076",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 37",
+    "customerId": "CUST-0037",
+    "supplierName": "Supplier 27",
+    "supplierId": "SUP-0027",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 33",
+    "customerId": "CUST-0033",
+    "supplierName": "Supplier 84",
+    "supplierId": "SUP-0084",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 14",
+    "customerId": "CUST-0014",
+    "supplierName": "Supplier 74",
+    "supplierId": "SUP-0074",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 11",
+    "customerId": "CUST-0011",
+    "supplierName": "Supplier 69",
+    "supplierId": "SUP-0069",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 15",
+    "customerId": "CUST-0015",
+    "supplierName": "Supplier 28",
+    "supplierId": "SUP-0028",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 20",
+    "customerId": "CUST-0020",
+    "supplierName": "Supplier 17",
+    "supplierId": "SUP-0017",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 15",
+    "customerId": "CUST-0015",
+    "supplierName": "Supplier 29",
+    "supplierId": "SUP-0029",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 32",
+    "customerId": "CUST-0032",
+    "supplierName": "Supplier 30",
+    "supplierId": "SUP-0030",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 33",
+    "customerId": "CUST-0033",
+    "supplierName": "Supplier 52",
+    "supplierId": "SUP-0052",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 4",
+    "customerId": "CUST-0004",
+    "supplierName": "Supplier 55",
+    "supplierId": "SUP-0055",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 8",
+    "customerId": "CUST-0008",
+    "supplierName": "Supplier 16",
+    "supplierId": "SUP-0016",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 23",
+    "customerId": "CUST-0023",
+    "supplierName": "Supplier 27",
+    "supplierId": "SUP-0027",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 23",
+    "customerId": "CUST-0023",
+    "supplierName": "Supplier 93",
+    "supplierId": "SUP-0093",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 25",
+    "customerId": "CUST-0025",
+    "supplierName": "Supplier 99",
+    "supplierId": "SUP-0099",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 28",
+    "customerId": "CUST-0028",
+    "supplierName": "Supplier 29",
+    "supplierId": "SUP-0029",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 31",
+    "customerId": "CUST-0031",
+    "supplierName": "Supplier 113",
+    "supplierId": "SUP-0113",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 8",
+    "customerId": "CUST-0008",
+    "supplierName": "Supplier 78",
+    "supplierId": "SUP-0078",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 37",
+    "customerId": "CUST-0037",
+    "supplierName": "Supplier 15",
+    "supplierId": "SUP-0015",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 22",
+    "customerId": "CUST-0022",
+    "supplierName": "Supplier 59",
+    "supplierId": "SUP-0059",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 35",
+    "customerId": "CUST-0035",
+    "supplierName": "Supplier 73",
+    "supplierId": "SUP-0073",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 40",
+    "customerId": "CUST-0040",
+    "supplierName": "Supplier 50",
+    "supplierId": "SUP-0050",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 1",
+    "customerId": "CUST-0001",
+    "supplierName": "Supplier 89",
+    "supplierId": "SUP-0089",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 10",
+    "customerId": "CUST-0010",
+    "supplierName": "Supplier 111",
+    "supplierId": "SUP-0111",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 18",
+    "customerId": "CUST-0018",
+    "supplierName": "Supplier 7",
+    "supplierId": "SUP-0007",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 35",
+    "customerId": "CUST-0035",
+    "supplierName": "Supplier 101",
+    "supplierId": "SUP-0101",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 38",
+    "customerId": "CUST-0038",
+    "supplierName": "Supplier 7",
+    "supplierId": "SUP-0007",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 14",
+    "customerId": "CUST-0014",
+    "supplierName": "Supplier 74",
+    "supplierId": "SUP-0074",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 30",
+    "customerId": "CUST-0030",
+    "supplierName": "Supplier 96",
+    "supplierId": "SUP-0096",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 8",
+    "customerId": "CUST-0008",
+    "supplierName": "Supplier 38",
+    "supplierId": "SUP-0038",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 9",
+    "customerId": "CUST-0009",
+    "supplierName": "Supplier 60",
+    "supplierId": "SUP-0060",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 25",
+    "customerId": "CUST-0025",
+    "supplierName": "Supplier 67",
+    "supplierId": "SUP-0067",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 30",
+    "customerId": "CUST-0030",
+    "supplierName": "Supplier 77",
+    "supplierId": "SUP-0077",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 3",
+    "customerId": "CUST-0003",
+    "supplierName": "Supplier 20",
+    "supplierId": "SUP-0020",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 3",
+    "customerId": "CUST-0003",
+    "supplierName": "Supplier 93",
+    "supplierId": "SUP-0093",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 12",
+    "customerId": "CUST-0012",
+    "supplierName": "Supplier 10",
+    "supplierId": "SUP-0010",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 4",
+    "customerId": "CUST-0004",
+    "supplierName": "Supplier 55",
+    "supplierId": "SUP-0055",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 20",
+    "customerId": "CUST-0020",
+    "supplierName": "Supplier 116",
+    "supplierId": "SUP-0116",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 4",
+    "customerId": "CUST-0004",
+    "supplierName": "Supplier 46",
+    "supplierId": "SUP-0046",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 4",
+    "customerId": "CUST-0004",
+    "supplierName": "Supplier 70",
+    "supplierId": "SUP-0070",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 2",
+    "customerId": "CUST-0002",
+    "supplierName": "Supplier 10",
+    "supplierId": "SUP-0010",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 29",
+    "customerId": "CUST-0029",
+    "supplierName": "Supplier 88",
+    "supplierId": "SUP-0088",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 17",
+    "customerId": "CUST-0017",
+    "supplierName": "Supplier 26",
+    "supplierId": "SUP-0026",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 7",
+    "customerId": "CUST-0007",
+    "supplierName": "Supplier 14",
+    "supplierId": "SUP-0014",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 17",
+    "customerId": "CUST-0017",
+    "supplierName": "Supplier 114",
+    "supplierId": "SUP-0114",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 39",
+    "customerId": "CUST-0039",
+    "supplierName": "Supplier 13",
+    "supplierId": "SUP-0013",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 19",
+    "customerId": "CUST-0019",
+    "supplierName": "Supplier 120",
+    "supplierId": "SUP-0120",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 5",
+    "customerId": "CUST-0005",
+    "supplierName": "Supplier 50",
+    "supplierId": "SUP-0050",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 8",
+    "customerId": "CUST-0008",
+    "supplierName": "Supplier 81",
+    "supplierId": "SUP-0081",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 25",
+    "customerId": "CUST-0025",
+    "supplierName": "Supplier 113",
+    "supplierId": "SUP-0113",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 28",
+    "customerId": "CUST-0028",
+    "supplierName": "Supplier 34",
+    "supplierId": "SUP-0034",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 27",
+    "customerId": "CUST-0027",
+    "supplierName": "Supplier 23",
+    "supplierId": "SUP-0023",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 38",
+    "customerId": "CUST-0038",
+    "supplierName": "Supplier 46",
+    "supplierId": "SUP-0046",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 15",
+    "customerId": "CUST-0015",
+    "supplierName": "Supplier 109",
+    "supplierId": "SUP-0109",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 15",
+    "customerId": "CUST-0015",
+    "supplierName": "Supplier 48",
+    "supplierId": "SUP-0048",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 31",
+    "customerId": "CUST-0031",
+    "supplierName": "Supplier 117",
+    "supplierId": "SUP-0117",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 7",
+    "customerId": "CUST-0007",
+    "supplierName": "Supplier 6",
+    "supplierId": "SUP-0006",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 21",
+    "customerId": "CUST-0021",
+    "supplierName": "Supplier 97",
+    "supplierId": "SUP-0097",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 30",
+    "customerId": "CUST-0030",
+    "supplierName": "Supplier 92",
+    "supplierId": "SUP-0092",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 27",
+    "customerId": "CUST-0027",
+    "supplierName": "Supplier 57",
+    "supplierId": "SUP-0057",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 7",
+    "customerId": "CUST-0007",
+    "supplierName": "Supplier 106",
+    "supplierId": "SUP-0106",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 21",
+    "customerId": "CUST-0021",
+    "supplierName": "Supplier 52",
+    "supplierId": "SUP-0052",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 23",
+    "customerId": "CUST-0023",
+    "supplierName": "Supplier 95",
+    "supplierId": "SUP-0095",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 7",
+    "customerId": "CUST-0007",
+    "supplierName": "Supplier 55",
+    "supplierId": "SUP-0055",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 23",
+    "customerId": "CUST-0023",
+    "supplierName": "Supplier 115",
+    "supplierId": "SUP-0115",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 7",
+    "customerId": "CUST-0007",
+    "supplierName": "Supplier 33",
+    "supplierId": "SUP-0033",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 4",
+    "customerId": "CUST-0004",
+    "supplierName": "Supplier 68",
+    "supplierId": "SUP-0068",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 6",
+    "customerId": "CUST-0006",
+    "supplierName": "Supplier 65",
+    "supplierId": "SUP-0065",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 22",
+    "customerId": "CUST-0022",
+    "supplierName": "Supplier 116",
+    "supplierId": "SUP-0116",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 19",
+    "customerId": "CUST-0019",
+    "supplierName": "Supplier 56",
+    "supplierId": "SUP-0056",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 12",
+    "customerId": "CUST-0012",
+    "supplierName": "Supplier 34",
+    "supplierId": "SUP-0034",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 6",
+    "customerId": "CUST-0006",
+    "supplierName": "Supplier 119",
+    "supplierId": "SUP-0119",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 7",
+    "customerId": "CUST-0007",
+    "supplierName": "Supplier 9",
+    "supplierId": "SUP-0009",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 22",
+    "customerId": "CUST-0022",
+    "supplierName": "Supplier 52",
+    "supplierId": "SUP-0052",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 17",
+    "customerId": "CUST-0017",
+    "supplierName": "Supplier 113",
+    "supplierId": "SUP-0113",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 18",
+    "customerId": "CUST-0018",
+    "supplierName": "Supplier 66",
+    "supplierId": "SUP-0066",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 5",
+    "customerId": "CUST-0005",
+    "supplierName": "Supplier 36",
+    "supplierId": "SUP-0036",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 31",
+    "customerId": "CUST-0031",
+    "supplierName": "Supplier 94",
+    "supplierId": "SUP-0094",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 13",
+    "customerId": "CUST-0013",
+    "supplierName": "Supplier 32",
+    "supplierId": "SUP-0032",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 8",
+    "customerId": "CUST-0008",
+    "supplierName": "Supplier 90",
+    "supplierId": "SUP-0090",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 2",
+    "customerId": "CUST-0002",
+    "supplierName": "Supplier 113",
+    "supplierId": "SUP-0113",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 22",
+    "customerId": "CUST-0022",
+    "supplierName": "Supplier 105",
+    "supplierId": "SUP-0105",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 33",
+    "customerId": "CUST-0033",
+    "supplierName": "Supplier 4",
+    "supplierId": "SUP-0004",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 8",
+    "customerId": "CUST-0008",
+    "supplierName": "Supplier 92",
+    "supplierId": "SUP-0092",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 9",
+    "customerId": "CUST-0009",
+    "supplierName": "Supplier 39",
+    "supplierId": "SUP-0039",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 4",
+    "customerId": "CUST-0004",
+    "supplierName": "Supplier 120",
+    "supplierId": "SUP-0120",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 8",
+    "customerId": "CUST-0008",
+    "supplierName": "Supplier 16",
+    "supplierId": "SUP-0016",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 39",
+    "customerId": "CUST-0039",
+    "supplierName": "Supplier 29",
+    "supplierId": "SUP-0029",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 30",
+    "customerId": "CUST-0030",
+    "supplierName": "Supplier 39",
+    "supplierId": "SUP-0039",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 22",
+    "customerId": "CUST-0022",
+    "supplierName": "Supplier 108",
+    "supplierId": "SUP-0108",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 36",
+    "customerId": "CUST-0036",
+    "supplierName": "Supplier 16",
+    "supplierId": "SUP-0016",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 32",
+    "customerId": "CUST-0032",
+    "supplierName": "Supplier 19",
+    "supplierId": "SUP-0019",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 4",
+    "customerId": "CUST-0004",
+    "supplierName": "Supplier 9",
+    "supplierId": "SUP-0009",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 28",
+    "customerId": "CUST-0028",
+    "supplierName": "Supplier 120",
+    "supplierId": "SUP-0120",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 7",
+    "customerId": "CUST-0007",
+    "supplierName": "Supplier 90",
+    "supplierId": "SUP-0090",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 34",
+    "customerId": "CUST-0034",
+    "supplierName": "Supplier 15",
+    "supplierId": "SUP-0015",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 28",
+    "customerId": "CUST-0028",
+    "supplierName": "Supplier 37",
+    "supplierId": "SUP-0037",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 6",
+    "customerId": "CUST-0006",
+    "supplierName": "Supplier 42",
+    "supplierId": "SUP-0042",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 29",
+    "customerId": "CUST-0029",
+    "supplierName": "Supplier 73",
+    "supplierId": "SUP-0073",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 13",
+    "customerId": "CUST-0013",
+    "supplierName": "Supplier 3",
+    "supplierId": "SUP-0003",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 4",
+    "customerId": "CUST-0004",
+    "supplierName": "Supplier 84",
+    "supplierId": "SUP-0084",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 31",
+    "customerId": "CUST-0031",
+    "supplierName": "Supplier 73",
+    "supplierId": "SUP-0073",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 38",
+    "customerId": "CUST-0038",
+    "supplierName": "Supplier 65",
+    "supplierId": "SUP-0065",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 30",
+    "customerId": "CUST-0030",
+    "supplierName": "Supplier 1",
+    "supplierId": "SUP-0001",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 35",
+    "customerId": "CUST-0035",
+    "supplierName": "Supplier 119",
+    "supplierId": "SUP-0119",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 36",
+    "customerId": "CUST-0036",
+    "supplierName": "Supplier 1",
+    "supplierId": "SUP-0001",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 3",
+    "customerId": "CUST-0003",
+    "supplierName": "Supplier 25",
+    "supplierId": "SUP-0025",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 7",
+    "customerId": "CUST-0007",
+    "supplierName": "Supplier 50",
+    "supplierId": "SUP-0050",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 14",
+    "customerId": "CUST-0014",
+    "supplierName": "Supplier 47",
+    "supplierId": "SUP-0047",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 36",
+    "customerId": "CUST-0036",
+    "supplierName": "Supplier 111",
+    "supplierId": "SUP-0111",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 14",
+    "customerId": "CUST-0014",
+    "supplierName": "Supplier 106",
+    "supplierId": "SUP-0106",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 38",
+    "customerId": "CUST-0038",
+    "supplierName": "Supplier 91",
+    "supplierId": "SUP-0091",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 8",
+    "customerId": "CUST-0008",
+    "supplierName": "Supplier 111",
+    "supplierId": "SUP-0111",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 29",
+    "customerId": "CUST-0029",
+    "supplierName": "Supplier 118",
+    "supplierId": "SUP-0118",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 36",
+    "customerId": "CUST-0036",
+    "supplierName": "Supplier 98",
+    "supplierId": "SUP-0098",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 12",
+    "customerId": "CUST-0012",
+    "supplierName": "Supplier 67",
+    "supplierId": "SUP-0067",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 39",
+    "customerId": "CUST-0039",
+    "supplierName": "Supplier 101",
+    "supplierId": "SUP-0101",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 25",
+    "customerId": "CUST-0025",
+    "supplierName": "Supplier 89",
+    "supplierId": "SUP-0089",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 6",
+    "customerId": "CUST-0006",
+    "supplierName": "Supplier 82",
+    "supplierId": "SUP-0082",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 26",
+    "customerId": "CUST-0026",
+    "supplierName": "Supplier 44",
+    "supplierId": "SUP-0044",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 4",
+    "customerId": "CUST-0004",
+    "supplierName": "Supplier 13",
+    "supplierId": "SUP-0013",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 14",
+    "customerId": "CUST-0014",
+    "supplierName": "Supplier 18",
+    "supplierId": "SUP-0018",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 26",
+    "customerId": "CUST-0026",
+    "supplierName": "Supplier 15",
+    "supplierId": "SUP-0015",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 38",
+    "customerId": "CUST-0038",
+    "supplierName": "Supplier 14",
+    "supplierId": "SUP-0014",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 10",
+    "customerId": "CUST-0010",
+    "supplierName": "Supplier 95",
+    "supplierId": "SUP-0095",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 23",
+    "customerId": "CUST-0023",
+    "supplierName": "Supplier 31",
+    "supplierId": "SUP-0031",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 27",
+    "customerId": "CUST-0027",
+    "supplierName": "Supplier 119",
+    "supplierId": "SUP-0119",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 25",
+    "customerId": "CUST-0025",
+    "supplierName": "Supplier 47",
+    "supplierId": "SUP-0047",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 26",
+    "customerId": "CUST-0026",
+    "supplierName": "Supplier 10",
+    "supplierId": "SUP-0010",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 2",
+    "customerId": "CUST-0002",
+    "supplierName": "Supplier 21",
+    "supplierId": "SUP-0021",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 10",
+    "customerId": "CUST-0010",
+    "supplierName": "Supplier 97",
+    "supplierId": "SUP-0097",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 27",
+    "customerId": "CUST-0027",
+    "supplierName": "Supplier 67",
+    "supplierId": "SUP-0067",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 3",
+    "customerId": "CUST-0003",
+    "supplierName": "Supplier 95",
+    "supplierId": "SUP-0095",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 6",
+    "customerId": "CUST-0006",
+    "supplierName": "Supplier 53",
+    "supplierId": "SUP-0053",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 28",
+    "customerId": "CUST-0028",
+    "supplierName": "Supplier 119",
+    "supplierId": "SUP-0119",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 17",
+    "customerId": "CUST-0017",
+    "supplierName": "Supplier 76",
+    "supplierId": "SUP-0076",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 33",
+    "customerId": "CUST-0033",
+    "supplierName": "Supplier 34",
+    "supplierId": "SUP-0034",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 30",
+    "customerId": "CUST-0030",
+    "supplierName": "Supplier 82",
+    "supplierId": "SUP-0082",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 36",
+    "customerId": "CUST-0036",
+    "supplierName": "Supplier 20",
+    "supplierId": "SUP-0020",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 31",
+    "customerId": "CUST-0031",
+    "supplierName": "Supplier 98",
+    "supplierId": "SUP-0098",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 24",
+    "customerId": "CUST-0024",
+    "supplierName": "Supplier 105",
+    "supplierId": "SUP-0105",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 26",
+    "customerId": "CUST-0026",
+    "supplierName": "Supplier 24",
+    "supplierId": "SUP-0024",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 23",
+    "customerId": "CUST-0023",
+    "supplierName": "Supplier 33",
+    "supplierId": "SUP-0033",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 3",
+    "customerId": "CUST-0003",
+    "supplierName": "Supplier 76",
+    "supplierId": "SUP-0076",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 4",
+    "customerId": "CUST-0004",
+    "supplierName": "Supplier 65",
+    "supplierId": "SUP-0065",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 34",
+    "customerId": "CUST-0034",
+    "supplierName": "Supplier 23",
+    "supplierId": "SUP-0023",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 30",
+    "customerId": "CUST-0030",
+    "supplierName": "Supplier 21",
+    "supplierId": "SUP-0021",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 3",
+    "customerId": "CUST-0003",
+    "supplierName": "Supplier 39",
+    "supplierId": "SUP-0039",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 29",
+    "customerId": "CUST-0029",
+    "supplierName": "Supplier 80",
+    "supplierId": "SUP-0080",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 33",
+    "customerId": "CUST-0033",
+    "supplierName": "Supplier 74",
+    "supplierId": "SUP-0074",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 2",
+    "customerId": "CUST-0002",
+    "supplierName": "Supplier 96",
+    "supplierId": "SUP-0096",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 25",
+    "customerId": "CUST-0025",
+    "supplierName": "Supplier 44",
+    "supplierId": "SUP-0044",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 20",
+    "customerId": "CUST-0020",
+    "supplierName": "Supplier 8",
+    "supplierId": "SUP-0008",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 19",
+    "customerId": "CUST-0019",
+    "supplierName": "Supplier 87",
+    "supplierId": "SUP-0087",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 32",
+    "customerId": "CUST-0032",
+    "supplierName": "Supplier 73",
+    "supplierId": "SUP-0073",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 26",
+    "customerId": "CUST-0026",
+    "supplierName": "Supplier 112",
+    "supplierId": "SUP-0112",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 37",
+    "customerId": "CUST-0037",
+    "supplierName": "Supplier 106",
+    "supplierId": "SUP-0106",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 38",
+    "customerId": "CUST-0038",
+    "supplierName": "Supplier 48",
+    "supplierId": "SUP-0048",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 19",
+    "customerId": "CUST-0019",
+    "supplierName": "Supplier 66",
+    "supplierId": "SUP-0066",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 14",
+    "customerId": "CUST-0014",
+    "supplierName": "Supplier 62",
+    "supplierId": "SUP-0062",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 11",
+    "customerId": "CUST-0011",
+    "supplierName": "Supplier 34",
+    "supplierId": "SUP-0034",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 8",
+    "customerId": "CUST-0008",
+    "supplierName": "Supplier 65",
+    "supplierId": "SUP-0065",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 27",
+    "customerId": "CUST-0027",
+    "supplierName": "Supplier 40",
+    "supplierId": "SUP-0040",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 17",
+    "customerId": "CUST-0017",
+    "supplierName": "Supplier 111",
+    "supplierId": "SUP-0111",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 13",
+    "customerId": "CUST-0013",
+    "supplierName": "Supplier 44",
+    "supplierId": "SUP-0044",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 20",
+    "customerId": "CUST-0020",
+    "supplierName": "Supplier 96",
+    "supplierId": "SUP-0096",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 2",
+    "customerId": "CUST-0002",
+    "supplierName": "Supplier 31",
+    "supplierId": "SUP-0031",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 22",
+    "customerId": "CUST-0022",
+    "supplierName": "Supplier 109",
+    "supplierId": "SUP-0109",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 27",
+    "customerId": "CUST-0027",
+    "supplierName": "Supplier 99",
+    "supplierId": "SUP-0099",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 16",
+    "customerId": "CUST-0016",
+    "supplierName": "Supplier 56",
+    "supplierId": "SUP-0056",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 5",
+    "customerId": "CUST-0005",
+    "supplierName": "Supplier 104",
+    "supplierId": "SUP-0104",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 2",
+    "customerId": "CUST-0002",
+    "supplierName": "Supplier 88",
+    "supplierId": "SUP-0088",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 17",
+    "customerId": "CUST-0017",
+    "supplierName": "Supplier 81",
+    "supplierId": "SUP-0081",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 16",
+    "customerId": "CUST-0016",
+    "supplierName": "Supplier 14",
+    "supplierId": "SUP-0014",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 40",
+    "customerId": "CUST-0040",
+    "supplierName": "Supplier 113",
+    "supplierId": "SUP-0113",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 2",
+    "customerId": "CUST-0002",
+    "supplierName": "Supplier 99",
+    "supplierId": "SUP-0099",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 26",
+    "customerId": "CUST-0026",
+    "supplierName": "Supplier 88",
+    "supplierId": "SUP-0088",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 8",
+    "customerId": "CUST-0008",
+    "supplierName": "Supplier 116",
+    "supplierId": "SUP-0116",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 9",
+    "customerId": "CUST-0009",
+    "supplierName": "Supplier 21",
+    "supplierId": "SUP-0021",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 11",
+    "customerId": "CUST-0011",
+    "supplierName": "Supplier 103",
+    "supplierId": "SUP-0103",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 40",
+    "customerId": "CUST-0040",
+    "supplierName": "Supplier 2",
+    "supplierId": "SUP-0002",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 38",
+    "customerId": "CUST-0038",
+    "supplierName": "Supplier 106",
+    "supplierId": "SUP-0106",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 39",
+    "customerId": "CUST-0039",
+    "supplierName": "Supplier 104",
+    "supplierId": "SUP-0104",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 32",
+    "customerId": "CUST-0032",
+    "supplierName": "Supplier 23",
+    "supplierId": "SUP-0023",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 23",
+    "customerId": "CUST-0023",
+    "supplierName": "Supplier 67",
+    "supplierId": "SUP-0067",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 11",
+    "customerId": "CUST-0011",
+    "supplierName": "Supplier 66",
+    "supplierId": "SUP-0066",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 30",
+    "customerId": "CUST-0030",
+    "supplierName": "Supplier 21",
+    "supplierId": "SUP-0021",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 28",
+    "customerId": "CUST-0028",
+    "supplierName": "Supplier 81",
+    "supplierId": "SUP-0081",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 23",
+    "customerId": "CUST-0023",
+    "supplierName": "Supplier 76",
+    "supplierId": "SUP-0076",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 9",
+    "customerId": "CUST-0009",
+    "supplierName": "Supplier 12",
+    "supplierId": "SUP-0012",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 8",
+    "customerId": "CUST-0008",
+    "supplierName": "Supplier 39",
+    "supplierId": "SUP-0039",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 36",
+    "customerId": "CUST-0036",
+    "supplierName": "Supplier 13",
+    "supplierId": "SUP-0013",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 28",
+    "customerId": "CUST-0028",
+    "supplierName": "Supplier 80",
+    "supplierId": "SUP-0080",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 35",
+    "customerId": "CUST-0035",
+    "supplierName": "Supplier 102",
+    "supplierId": "SUP-0102",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 38",
+    "customerId": "CUST-0038",
+    "supplierName": "Supplier 113",
+    "supplierId": "SUP-0113",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 20",
+    "customerId": "CUST-0020",
+    "supplierName": "Supplier 24",
+    "supplierId": "SUP-0024",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 27",
+    "customerId": "CUST-0027",
+    "supplierName": "Supplier 59",
+    "supplierId": "SUP-0059",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 27",
+    "customerId": "CUST-0027",
+    "supplierName": "Supplier 34",
+    "supplierId": "SUP-0034",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 6",
+    "customerId": "CUST-0006",
+    "supplierName": "Supplier 54",
+    "supplierId": "SUP-0054",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 18",
+    "customerId": "CUST-0018",
+    "supplierName": "Supplier 23",
+    "supplierId": "SUP-0023",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 14",
+    "customerId": "CUST-0014",
+    "supplierName": "Supplier 117",
+    "supplierId": "SUP-0117",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 2",
+    "customerId": "CUST-0002",
+    "supplierName": "Supplier 70",
+    "supplierId": "SUP-0070",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 6",
+    "customerId": "CUST-0006",
+    "supplierName": "Supplier 18",
+    "supplierId": "SUP-0018",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 27",
+    "customerId": "CUST-0027",
+    "supplierName": "Supplier 87",
+    "supplierId": "SUP-0087",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 15",
+    "customerId": "CUST-0015",
+    "supplierName": "Supplier 43",
+    "supplierId": "SUP-0043",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 33",
+    "customerId": "CUST-0033",
+    "supplierName": "Supplier 17",
+    "supplierId": "SUP-0017",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 6",
+    "customerId": "CUST-0006",
+    "supplierName": "Supplier 13",
+    "supplierId": "SUP-0013",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 23",
+    "customerId": "CUST-0023",
+    "supplierName": "Supplier 36",
+    "supplierId": "SUP-0036",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 10",
+    "customerId": "CUST-0010",
+    "supplierName": "Supplier 27",
+    "supplierId": "SUP-0027",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 37",
+    "customerId": "CUST-0037",
+    "supplierName": "Supplier 33",
+    "supplierId": "SUP-0033",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 8",
+    "customerId": "CUST-0008",
+    "supplierName": "Supplier 22",
+    "supplierId": "SUP-0022",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 13",
+    "customerId": "CUST-0013",
+    "supplierName": "Supplier 91",
+    "supplierId": "SUP-0091",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 18",
+    "customerId": "CUST-0018",
+    "supplierName": "Supplier 22",
+    "supplierId": "SUP-0022",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 26",
+    "customerId": "CUST-0026",
+    "supplierName": "Supplier 82",
+    "supplierId": "SUP-0082",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 2",
+    "customerId": "CUST-0002",
+    "supplierName": "Supplier 109",
+    "supplierId": "SUP-0109",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 28",
+    "customerId": "CUST-0028",
+    "supplierName": "Supplier 74",
+    "supplierId": "SUP-0074",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 37",
+    "customerId": "CUST-0037",
+    "supplierName": "Supplier 109",
+    "supplierId": "SUP-0109",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 14",
+    "customerId": "CUST-0014",
+    "supplierName": "Supplier 118",
+    "supplierId": "SUP-0118",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 4",
+    "customerId": "CUST-0004",
+    "supplierName": "Supplier 28",
+    "supplierId": "SUP-0028",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 6",
+    "customerId": "CUST-0006",
+    "supplierName": "Supplier 58",
+    "supplierId": "SUP-0058",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 9",
+    "customerId": "CUST-0009",
+    "supplierName": "Supplier 54",
+    "supplierId": "SUP-0054",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 8",
+    "customerId": "CUST-0008",
+    "supplierName": "Supplier 73",
+    "supplierId": "SUP-0073",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 20",
+    "customerId": "CUST-0020",
+    "supplierName": "Supplier 106",
+    "supplierId": "SUP-0106",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 7",
+    "customerId": "CUST-0007",
+    "supplierName": "Supplier 52",
+    "supplierId": "SUP-0052",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 4",
+    "customerId": "CUST-0004",
+    "supplierName": "Supplier 55",
+    "supplierId": "SUP-0055",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 1",
+    "customerId": "CUST-0001",
+    "supplierName": "Supplier 68",
+    "supplierId": "SUP-0068",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 6",
+    "customerId": "CUST-0006",
+    "supplierName": "Supplier 38",
+    "supplierId": "SUP-0038",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 10",
+    "customerId": "CUST-0010",
+    "supplierName": "Supplier 17",
+    "supplierId": "SUP-0017",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 31",
+    "customerId": "CUST-0031",
+    "supplierName": "Supplier 33",
+    "supplierId": "SUP-0033",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 38",
+    "customerId": "CUST-0038",
+    "supplierName": "Supplier 78",
+    "supplierId": "SUP-0078",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 9",
+    "customerId": "CUST-0009",
+    "supplierName": "Supplier 69",
+    "supplierId": "SUP-0069",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 23",
+    "customerId": "CUST-0023",
+    "supplierName": "Supplier 29",
+    "supplierId": "SUP-0029",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 17",
+    "customerId": "CUST-0017",
+    "supplierName": "Supplier 30",
+    "supplierId": "SUP-0030",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 2",
+    "customerId": "CUST-0002",
+    "supplierName": "Supplier 116",
+    "supplierId": "SUP-0116",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 4",
+    "customerId": "CUST-0004",
+    "supplierName": "Supplier 18",
+    "supplierId": "SUP-0018",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 23",
+    "customerId": "CUST-0023",
+    "supplierName": "Supplier 13",
+    "supplierId": "SUP-0013",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 19",
+    "customerId": "CUST-0019",
+    "supplierName": "Supplier 85",
+    "supplierId": "SUP-0085",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 39",
+    "customerId": "CUST-0039",
+    "supplierName": "Supplier 116",
+    "supplierId": "SUP-0116",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 8",
+    "customerId": "CUST-0008",
+    "supplierName": "Supplier 67",
+    "supplierId": "SUP-0067",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 16",
+    "customerId": "CUST-0016",
+    "supplierName": "Supplier 97",
+    "supplierId": "SUP-0097",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 13",
+    "customerId": "CUST-0013",
+    "supplierName": "Supplier 67",
+    "supplierId": "SUP-0067",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 40",
+    "customerId": "CUST-0040",
+    "supplierName": "Supplier 59",
+    "supplierId": "SUP-0059",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 22",
+    "customerId": "CUST-0022",
+    "supplierName": "Supplier 58",
+    "supplierId": "SUP-0058",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 4",
+    "customerId": "CUST-0004",
+    "supplierName": "Supplier 1",
+    "supplierId": "SUP-0001",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 36",
+    "customerId": "CUST-0036",
+    "supplierName": "Supplier 18",
+    "supplierId": "SUP-0018",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 16",
+    "customerId": "CUST-0016",
+    "supplierName": "Supplier 108",
+    "supplierId": "SUP-0108",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 1",
+    "customerId": "CUST-0001",
+    "supplierName": "Supplier 93",
+    "supplierId": "SUP-0093",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 33",
+    "customerId": "CUST-0033",
+    "supplierName": "Supplier 35",
+    "supplierId": "SUP-0035",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 26",
+    "customerId": "CUST-0026",
+    "supplierName": "Supplier 3",
+    "supplierId": "SUP-0003",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 6",
+    "customerId": "CUST-0006",
+    "supplierName": "Supplier 32",
+    "supplierId": "SUP-0032",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 28",
+    "customerId": "CUST-0028",
+    "supplierName": "Supplier 64",
+    "supplierId": "SUP-0064",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 34",
+    "customerId": "CUST-0034",
+    "supplierName": "Supplier 43",
+    "supplierId": "SUP-0043",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 3",
+    "customerId": "CUST-0003",
+    "supplierName": "Supplier 90",
+    "supplierId": "SUP-0090",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 7",
+    "customerId": "CUST-0007",
+    "supplierName": "Supplier 36",
+    "supplierId": "SUP-0036",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 14",
+    "customerId": "CUST-0014",
+    "supplierName": "Supplier 67",
+    "supplierId": "SUP-0067",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 24",
+    "customerId": "CUST-0024",
+    "supplierName": "Supplier 112",
+    "supplierId": "SUP-0112",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 26",
+    "customerId": "CUST-0026",
+    "supplierName": "Supplier 63",
+    "supplierId": "SUP-0063",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 19",
+    "customerId": "CUST-0019",
+    "supplierName": "Supplier 21",
+    "supplierId": "SUP-0021",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 28",
+    "customerId": "CUST-0028",
+    "supplierName": "Supplier 10",
+    "supplierId": "SUP-0010",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 10",
+    "customerId": "CUST-0010",
+    "supplierName": "Supplier 1",
+    "supplierId": "SUP-0001",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 38",
+    "customerId": "CUST-0038",
+    "supplierName": "Supplier 17",
+    "supplierId": "SUP-0017",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 10",
+    "customerId": "CUST-0010",
+    "supplierName": "Supplier 46",
+    "supplierId": "SUP-0046",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 40",
+    "customerId": "CUST-0040",
+    "supplierName": "Supplier 46",
+    "supplierId": "SUP-0046",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 8",
+    "customerId": "CUST-0008",
+    "supplierName": "Supplier 40",
+    "supplierId": "SUP-0040",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 36",
+    "customerId": "CUST-0036",
+    "supplierName": "Supplier 5",
+    "supplierId": "SUP-0005",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 14",
+    "customerId": "CUST-0014",
+    "supplierName": "Supplier 62",
+    "supplierId": "SUP-0062",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 36",
+    "customerId": "CUST-0036",
+    "supplierName": "Supplier 65",
+    "supplierId": "SUP-0065",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 20",
+    "customerId": "CUST-0020",
+    "supplierName": "Supplier 77",
+    "supplierId": "SUP-0077",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 20",
+    "customerId": "CUST-0020",
+    "supplierName": "Supplier 9",
+    "supplierId": "SUP-0009",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 39",
+    "customerId": "CUST-0039",
+    "supplierName": "Supplier 66",
+    "supplierId": "SUP-0066",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 37",
+    "customerId": "CUST-0037",
+    "supplierName": "Supplier 66",
+    "supplierId": "SUP-0066",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 3",
+    "customerId": "CUST-0003",
+    "supplierName": "Supplier 102",
+    "supplierId": "SUP-0102",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 22",
+    "customerId": "CUST-0022",
+    "supplierName": "Supplier 79",
+    "supplierId": "SUP-0079",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 35",
+    "customerId": "CUST-0035",
+    "supplierName": "Supplier 56",
+    "supplierId": "SUP-0056",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 18",
+    "customerId": "CUST-0018",
+    "supplierName": "Supplier 23",
+    "supplierId": "SUP-0023",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 2",
+    "customerId": "CUST-0002",
+    "supplierName": "Supplier 118",
+    "supplierId": "SUP-0118",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 28",
+    "customerId": "CUST-0028",
+    "supplierName": "Supplier 82",
+    "supplierId": "SUP-0082",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 12",
+    "customerId": "CUST-0012",
+    "supplierName": "Supplier 58",
+    "supplierId": "SUP-0058",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 22",
+    "customerId": "CUST-0022",
+    "supplierName": "Supplier 8",
+    "supplierId": "SUP-0008",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 35",
+    "customerId": "CUST-0035",
+    "supplierName": "Supplier 5",
+    "supplierId": "SUP-0005",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 20",
+    "customerId": "CUST-0020",
+    "supplierName": "Supplier 45",
+    "supplierId": "SUP-0045",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 26",
+    "customerId": "CUST-0026",
+    "supplierName": "Supplier 13",
+    "supplierId": "SUP-0013",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 2",
+    "customerId": "CUST-0002",
+    "supplierName": "Supplier 19",
+    "supplierId": "SUP-0019",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 7",
+    "customerId": "CUST-0007",
+    "supplierName": "Supplier 28",
+    "supplierId": "SUP-0028",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 35",
+    "customerId": "CUST-0035",
+    "supplierName": "Supplier 5",
+    "supplierId": "SUP-0005",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 4",
+    "customerId": "CUST-0004",
+    "supplierName": "Supplier 105",
+    "supplierId": "SUP-0105",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 17",
+    "customerId": "CUST-0017",
+    "supplierName": "Supplier 68",
+    "supplierId": "SUP-0068",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 35",
+    "customerId": "CUST-0035",
+    "supplierName": "Supplier 28",
+    "supplierId": "SUP-0028",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 2",
+    "customerId": "CUST-0002",
+    "supplierName": "Supplier 28",
+    "supplierId": "SUP-0028",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 40",
+    "customerId": "CUST-0040",
+    "supplierName": "Supplier 17",
+    "supplierId": "SUP-0017",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 24",
+    "customerId": "CUST-0024",
+    "supplierName": "Supplier 34",
+    "supplierId": "SUP-0034",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 40",
+    "customerId": "CUST-0040",
+    "supplierName": "Supplier 97",
+    "supplierId": "SUP-0097",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 2",
+    "customerId": "CUST-0002",
+    "supplierName": "Supplier 65",
+    "supplierId": "SUP-0065",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 28",
+    "customerId": "CUST-0028",
+    "supplierName": "Supplier 2",
+    "supplierId": "SUP-0002",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 38",
+    "customerId": "CUST-0038",
+    "supplierName": "Supplier 73",
+    "supplierId": "SUP-0073",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 33",
+    "customerId": "CUST-0033",
+    "supplierName": "Supplier 21",
+    "supplierId": "SUP-0021",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 7",
+    "customerId": "CUST-0007",
+    "supplierName": "Supplier 8",
+    "supplierId": "SUP-0008",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 16",
+    "customerId": "CUST-0016",
+    "supplierName": "Supplier 24",
+    "supplierId": "SUP-0024",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 9",
+    "customerId": "CUST-0009",
+    "supplierName": "Supplier 78",
+    "supplierId": "SUP-0078",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 13",
+    "customerId": "CUST-0013",
+    "supplierName": "Supplier 18",
+    "supplierId": "SUP-0018",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 30",
+    "customerId": "CUST-0030",
+    "supplierName": "Supplier 55",
+    "supplierId": "SUP-0055",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 19",
+    "customerId": "CUST-0019",
+    "supplierName": "Supplier 107",
+    "supplierId": "SUP-0107",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 24",
+    "customerId": "CUST-0024",
+    "supplierName": "Supplier 24",
+    "supplierId": "SUP-0024",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 34",
+    "customerId": "CUST-0034",
+    "supplierName": "Supplier 23",
+    "supplierId": "SUP-0023",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 25",
+    "customerId": "CUST-0025",
+    "supplierName": "Supplier 74",
+    "supplierId": "SUP-0074",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 1",
+    "customerId": "CUST-0001",
+    "supplierName": "Supplier 83",
+    "supplierId": "SUP-0083",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 23",
+    "customerId": "CUST-0023",
+    "supplierName": "Supplier 105",
+    "supplierId": "SUP-0105",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 23",
+    "customerId": "CUST-0023",
+    "supplierName": "Supplier 54",
+    "supplierId": "SUP-0054",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 37",
+    "customerId": "CUST-0037",
+    "supplierName": "Supplier 24",
+    "supplierId": "SUP-0024",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 36",
+    "customerId": "CUST-0036",
+    "supplierName": "Supplier 116",
+    "supplierId": "SUP-0116",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 3",
+    "customerId": "CUST-0003",
+    "supplierName": "Supplier 117",
+    "supplierId": "SUP-0117",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 33",
+    "customerId": "CUST-0033",
+    "supplierName": "Supplier 24",
+    "supplierId": "SUP-0024",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 34",
+    "customerId": "CUST-0034",
+    "supplierName": "Supplier 35",
+    "supplierId": "SUP-0035",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 15",
+    "customerId": "CUST-0015",
+    "supplierName": "Supplier 74",
+    "supplierId": "SUP-0074",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 35",
+    "customerId": "CUST-0035",
+    "supplierName": "Supplier 112",
+    "supplierId": "SUP-0112",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 27",
+    "customerId": "CUST-0027",
+    "supplierName": "Supplier 84",
+    "supplierId": "SUP-0084",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 28",
+    "customerId": "CUST-0028",
+    "supplierName": "Supplier 78",
+    "supplierId": "SUP-0078",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 13",
+    "customerId": "CUST-0013",
+    "supplierName": "Supplier 12",
+    "supplierId": "SUP-0012",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 16",
+    "customerId": "CUST-0016",
+    "supplierName": "Supplier 79",
+    "supplierId": "SUP-0079",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 3",
+    "customerId": "CUST-0003",
+    "supplierName": "Supplier 94",
+    "supplierId": "SUP-0094",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 13",
+    "customerId": "CUST-0013",
+    "supplierName": "Supplier 119",
+    "supplierId": "SUP-0119",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 28",
+    "customerId": "CUST-0028",
+    "supplierName": "Supplier 13",
+    "supplierId": "SUP-0013",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 15",
+    "customerId": "CUST-0015",
+    "supplierName": "Supplier 64",
+    "supplierId": "SUP-0064",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 28",
+    "customerId": "CUST-0028",
+    "supplierName": "Supplier 5",
+    "supplierId": "SUP-0005",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 39",
+    "customerId": "CUST-0039",
+    "supplierName": "Supplier 104",
+    "supplierId": "SUP-0104",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 6",
+    "customerId": "CUST-0006",
+    "supplierName": "Supplier 81",
+    "supplierId": "SUP-0081",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 17",
+    "customerId": "CUST-0017",
+    "supplierName": "Supplier 97",
+    "supplierId": "SUP-0097",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 15",
+    "customerId": "CUST-0015",
+    "supplierName": "Supplier 99",
+    "supplierId": "SUP-0099",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 29",
+    "customerId": "CUST-0029",
+    "supplierName": "Supplier 32",
+    "supplierId": "SUP-0032",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 28",
+    "customerId": "CUST-0028",
+    "supplierName": "Supplier 9",
+    "supplierId": "SUP-0009",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 1",
+    "customerId": "CUST-0001",
+    "supplierName": "Supplier 48",
+    "supplierId": "SUP-0048",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 27",
+    "customerId": "CUST-0027",
+    "supplierName": "Supplier 88",
+    "supplierId": "SUP-0088",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 11",
+    "customerId": "CUST-0011",
+    "supplierName": "Supplier 39",
+    "supplierId": "SUP-0039",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 34",
+    "customerId": "CUST-0034",
+    "supplierName": "Supplier 22",
+    "supplierId": "SUP-0022",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 40",
+    "customerId": "CUST-0040",
+    "supplierName": "Supplier 16",
+    "supplierId": "SUP-0016",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 14",
+    "customerId": "CUST-0014",
+    "supplierName": "Supplier 4",
+    "supplierId": "SUP-0004",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 7",
+    "customerId": "CUST-0007",
+    "supplierName": "Supplier 49",
+    "supplierId": "SUP-0049",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 32",
+    "customerId": "CUST-0032",
+    "supplierName": "Supplier 51",
+    "supplierId": "SUP-0051",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 36",
+    "customerId": "CUST-0036",
+    "supplierName": "Supplier 114",
+    "supplierId": "SUP-0114",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 2",
+    "customerId": "CUST-0002",
+    "supplierName": "Supplier 11",
+    "supplierId": "SUP-0011",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 30",
+    "customerId": "CUST-0030",
+    "supplierName": "Supplier 102",
+    "supplierId": "SUP-0102",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 24",
+    "customerId": "CUST-0024",
+    "supplierName": "Supplier 39",
+    "supplierId": "SUP-0039",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 34",
+    "customerId": "CUST-0034",
+    "supplierName": "Supplier 69",
+    "supplierId": "SUP-0069",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 13",
+    "customerId": "CUST-0013",
+    "supplierName": "Supplier 84",
+    "supplierId": "SUP-0084",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 37",
+    "customerId": "CUST-0037",
+    "supplierName": "Supplier 82",
+    "supplierId": "SUP-0082",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 4",
+    "customerId": "CUST-0004",
+    "supplierName": "Supplier 120",
+    "supplierId": "SUP-0120",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 39",
+    "customerId": "CUST-0039",
+    "supplierName": "Supplier 74",
+    "supplierId": "SUP-0074",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 6",
+    "customerId": "CUST-0006",
+    "supplierName": "Supplier 73",
+    "supplierId": "SUP-0073",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 17",
+    "customerId": "CUST-0017",
+    "supplierName": "Supplier 84",
+    "supplierId": "SUP-0084",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 35",
+    "customerId": "CUST-0035",
+    "supplierName": "Supplier 81",
+    "supplierId": "SUP-0081",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 5",
+    "customerId": "CUST-0005",
+    "supplierName": "Supplier 114",
+    "supplierId": "SUP-0114",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 32",
+    "customerId": "CUST-0032",
+    "supplierName": "Supplier 32",
+    "supplierId": "SUP-0032",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 27",
+    "customerId": "CUST-0027",
+    "supplierName": "Supplier 91",
+    "supplierId": "SUP-0091",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 34",
+    "customerId": "CUST-0034",
+    "supplierName": "Supplier 93",
+    "supplierId": "SUP-0093",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 5",
+    "customerId": "CUST-0005",
+    "supplierName": "Supplier 110",
+    "supplierId": "SUP-0110",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 26",
+    "customerId": "CUST-0026",
+    "supplierName": "Supplier 41",
+    "supplierId": "SUP-0041",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 4",
+    "customerId": "CUST-0004",
+    "supplierName": "Supplier 58",
+    "supplierId": "SUP-0058",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 29",
+    "customerId": "CUST-0029",
+    "supplierName": "Supplier 66",
+    "supplierId": "SUP-0066",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 35",
+    "customerId": "CUST-0035",
+    "supplierName": "Supplier 1",
+    "supplierId": "SUP-0001",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 2",
+    "customerId": "CUST-0002",
+    "supplierName": "Supplier 26",
+    "supplierId": "SUP-0026",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 27",
+    "customerId": "CUST-0027",
+    "supplierName": "Supplier 104",
+    "supplierId": "SUP-0104",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 13",
+    "customerId": "CUST-0013",
+    "supplierName": "Supplier 52",
+    "supplierId": "SUP-0052",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 8",
+    "customerId": "CUST-0008",
+    "supplierName": "Supplier 70",
+    "supplierId": "SUP-0070",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 6",
+    "customerId": "CUST-0006",
+    "supplierName": "Supplier 17",
+    "supplierId": "SUP-0017",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 8",
+    "customerId": "CUST-0008",
+    "supplierName": "Supplier 36",
+    "supplierId": "SUP-0036",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 7",
+    "customerId": "CUST-0007",
+    "supplierName": "Supplier 92",
+    "supplierId": "SUP-0092",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 13",
+    "customerId": "CUST-0013",
+    "supplierName": "Supplier 35",
+    "supplierId": "SUP-0035",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 33",
+    "customerId": "CUST-0033",
+    "supplierName": "Supplier 12",
+    "supplierId": "SUP-0012",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 11",
+    "customerId": "CUST-0011",
+    "supplierName": "Supplier 58",
+    "supplierId": "SUP-0058",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 17",
+    "customerId": "CUST-0017",
+    "supplierName": "Supplier 71",
+    "supplierId": "SUP-0071",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 36",
+    "customerId": "CUST-0036",
+    "supplierName": "Supplier 71",
+    "supplierId": "SUP-0071",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 33",
+    "customerId": "CUST-0033",
+    "supplierName": "Supplier 29",
+    "supplierId": "SUP-0029",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 9",
+    "customerId": "CUST-0009",
+    "supplierName": "Supplier 87",
+    "supplierId": "SUP-0087",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 17",
+    "customerId": "CUST-0017",
+    "supplierName": "Supplier 107",
+    "supplierId": "SUP-0107",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 8",
+    "customerId": "CUST-0008",
+    "supplierName": "Supplier 35",
+    "supplierId": "SUP-0035",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 3",
+    "customerId": "CUST-0003",
+    "supplierName": "Supplier 64",
+    "supplierId": "SUP-0064",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 33",
+    "customerId": "CUST-0033",
+    "supplierName": "Supplier 104",
+    "supplierId": "SUP-0104",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 39",
+    "customerId": "CUST-0039",
+    "supplierName": "Supplier 72",
+    "supplierId": "SUP-0072",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 21",
+    "customerId": "CUST-0021",
+    "supplierName": "Supplier 56",
+    "supplierId": "SUP-0056",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 32",
+    "customerId": "CUST-0032",
+    "supplierName": "Supplier 101",
+    "supplierId": "SUP-0101",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 2",
+    "customerId": "CUST-0002",
+    "supplierName": "Supplier 11",
+    "supplierId": "SUP-0011",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 40",
+    "customerId": "CUST-0040",
+    "supplierName": "Supplier 91",
+    "supplierId": "SUP-0091",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 10",
+    "customerId": "CUST-0010",
+    "supplierName": "Supplier 20",
+    "supplierId": "SUP-0020",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 29",
+    "customerId": "CUST-0029",
+    "supplierName": "Supplier 43",
+    "supplierId": "SUP-0043",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 20",
+    "customerId": "CUST-0020",
+    "supplierName": "Supplier 47",
+    "supplierId": "SUP-0047",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 29",
+    "customerId": "CUST-0029",
+    "supplierName": "Supplier 7",
+    "supplierId": "SUP-0007",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 3",
+    "customerId": "CUST-0003",
+    "supplierName": "Supplier 80",
+    "supplierId": "SUP-0080",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 23",
+    "customerId": "CUST-0023",
+    "supplierName": "Supplier 43",
+    "supplierId": "SUP-0043",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 10",
+    "customerId": "CUST-0010",
+    "supplierName": "Supplier 61",
+    "supplierId": "SUP-0061",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 5",
+    "customerId": "CUST-0005",
+    "supplierName": "Supplier 68",
+    "supplierId": "SUP-0068",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 18",
+    "customerId": "CUST-0018",
+    "supplierName": "Supplier 39",
+    "supplierId": "SUP-0039",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 15",
+    "customerId": "CUST-0015",
+    "supplierName": "Supplier 6",
+    "supplierId": "SUP-0006",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 37",
+    "customerId": "CUST-0037",
+    "supplierName": "Supplier 7",
+    "supplierId": "SUP-0007",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 10",
+    "customerId": "CUST-0010",
+    "supplierName": "Supplier 46",
+    "supplierId": "SUP-0046",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 10",
+    "customerId": "CUST-0010",
+    "supplierName": "Supplier 16",
+    "supplierId": "SUP-0016",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 27",
+    "customerId": "CUST-0027",
+    "supplierName": "Supplier 8",
+    "supplierId": "SUP-0008",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 18",
+    "customerId": "CUST-0018",
+    "supplierName": "Supplier 85",
+    "supplierId": "SUP-0085",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 33",
+    "customerId": "CUST-0033",
+    "supplierName": "Supplier 21",
+    "supplierId": "SUP-0021",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 40",
+    "customerId": "CUST-0040",
+    "supplierName": "Supplier 104",
+    "supplierId": "SUP-0104",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 12",
+    "customerId": "CUST-0012",
+    "supplierName": "Supplier 17",
+    "supplierId": "SUP-0017",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 8",
+    "customerId": "CUST-0008",
+    "supplierName": "Supplier 63",
+    "supplierId": "SUP-0063",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 34",
+    "customerId": "CUST-0034",
+    "supplierName": "Supplier 55",
+    "supplierId": "SUP-0055",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 6",
+    "customerId": "CUST-0006",
+    "supplierName": "Supplier 120",
+    "supplierId": "SUP-0120",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 7",
+    "customerId": "CUST-0007",
+    "supplierName": "Supplier 72",
+    "supplierId": "SUP-0072",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 12",
+    "customerId": "CUST-0012",
+    "supplierName": "Supplier 38",
+    "supplierId": "SUP-0038",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 7",
+    "customerId": "CUST-0007",
+    "supplierName": "Supplier 76",
+    "supplierId": "SUP-0076",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 12",
+    "customerId": "CUST-0012",
+    "supplierName": "Supplier 42",
+    "supplierId": "SUP-0042",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 36",
+    "customerId": "CUST-0036",
+    "supplierName": "Supplier 84",
+    "supplierId": "SUP-0084",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 30",
+    "customerId": "CUST-0030",
+    "supplierName": "Supplier 45",
+    "supplierId": "SUP-0045",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 12",
+    "customerId": "CUST-0012",
+    "supplierName": "Supplier 110",
+    "supplierId": "SUP-0110",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 23",
+    "customerId": "CUST-0023",
+    "supplierName": "Supplier 10",
+    "supplierId": "SUP-0010",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 37",
+    "customerId": "CUST-0037",
+    "supplierName": "Supplier 45",
+    "supplierId": "SUP-0045",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 36",
+    "customerId": "CUST-0036",
+    "supplierName": "Supplier 67",
+    "supplierId": "SUP-0067",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 32",
+    "customerId": "CUST-0032",
+    "supplierName": "Supplier 36",
+    "supplierId": "SUP-0036",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 36",
+    "customerId": "CUST-0036",
+    "supplierName": "Supplier 109",
+    "supplierId": "SUP-0109",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 10",
+    "customerId": "CUST-0010",
+    "supplierName": "Supplier 30",
+    "supplierId": "SUP-0030",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 15",
+    "customerId": "CUST-0015",
+    "supplierName": "Supplier 43",
+    "supplierId": "SUP-0043",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 11",
+    "customerId": "CUST-0011",
+    "supplierName": "Supplier 120",
+    "supplierId": "SUP-0120",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 16",
+    "customerId": "CUST-0016",
+    "supplierName": "Supplier 24",
+    "supplierId": "SUP-0024",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 27",
+    "customerId": "CUST-0027",
+    "supplierName": "Supplier 81",
+    "supplierId": "SUP-0081",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 25",
+    "customerId": "CUST-0025",
+    "supplierName": "Supplier 77",
+    "supplierId": "SUP-0077",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 31",
+    "customerId": "CUST-0031",
+    "supplierName": "Supplier 82",
+    "supplierId": "SUP-0082",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 21",
+    "customerId": "CUST-0021",
+    "supplierName": "Supplier 100",
+    "supplierId": "SUP-0100",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 31",
+    "customerId": "CUST-0031",
+    "supplierName": "Supplier 100",
+    "supplierId": "SUP-0100",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 10",
+    "customerId": "CUST-0010",
+    "supplierName": "Supplier 4",
+    "supplierId": "SUP-0004",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 24",
+    "customerId": "CUST-0024",
+    "supplierName": "Supplier 43",
+    "supplierId": "SUP-0043",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 20",
+    "customerId": "CUST-0020",
+    "supplierName": "Supplier 57",
+    "supplierId": "SUP-0057",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 16",
+    "customerId": "CUST-0016",
+    "supplierName": "Supplier 50",
+    "supplierId": "SUP-0050",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 33",
+    "customerId": "CUST-0033",
+    "supplierName": "Supplier 34",
+    "supplierId": "SUP-0034",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 21",
+    "customerId": "CUST-0021",
+    "supplierName": "Supplier 10",
+    "supplierId": "SUP-0010",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 28",
+    "customerId": "CUST-0028",
+    "supplierName": "Supplier 29",
+    "supplierId": "SUP-0029",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 20",
+    "customerId": "CUST-0020",
+    "supplierName": "Supplier 11",
+    "supplierId": "SUP-0011",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 12",
+    "customerId": "CUST-0012",
+    "supplierName": "Supplier 8",
+    "supplierId": "SUP-0008",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 28",
+    "customerId": "CUST-0028",
+    "supplierName": "Supplier 28",
+    "supplierId": "SUP-0028",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 22",
+    "customerId": "CUST-0022",
+    "supplierName": "Supplier 101",
+    "supplierId": "SUP-0101",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 5",
+    "customerId": "CUST-0005",
+    "supplierName": "Supplier 8",
+    "supplierId": "SUP-0008",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 36",
+    "customerId": "CUST-0036",
+    "supplierName": "Supplier 25",
+    "supplierId": "SUP-0025",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 20",
+    "customerId": "CUST-0020",
+    "supplierName": "Supplier 1",
+    "supplierId": "SUP-0001",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 8",
+    "customerId": "CUST-0008",
+    "supplierName": "Supplier 30",
+    "supplierId": "SUP-0030",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 17",
+    "customerId": "CUST-0017",
+    "supplierName": "Supplier 93",
+    "supplierId": "SUP-0093",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 2",
+    "customerId": "CUST-0002",
+    "supplierName": "Supplier 119",
+    "supplierId": "SUP-0119",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 7",
+    "customerId": "CUST-0007",
+    "supplierName": "Supplier 79",
+    "supplierId": "SUP-0079",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 33",
+    "customerId": "CUST-0033",
+    "supplierName": "Supplier 106",
+    "supplierId": "SUP-0106",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 26",
+    "customerId": "CUST-0026",
+    "supplierName": "Supplier 9",
+    "supplierId": "SUP-0009",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 5",
+    "customerId": "CUST-0005",
+    "supplierName": "Supplier 113",
+    "supplierId": "SUP-0113",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 7",
+    "customerId": "CUST-0007",
+    "supplierName": "Supplier 91",
+    "supplierId": "SUP-0091",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 20",
+    "customerId": "CUST-0020",
+    "supplierName": "Supplier 11",
+    "supplierId": "SUP-0011",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 8",
+    "customerId": "CUST-0008",
+    "supplierName": "Supplier 81",
+    "supplierId": "SUP-0081",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 14",
+    "customerId": "CUST-0014",
+    "supplierName": "Supplier 14",
+    "supplierId": "SUP-0014",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 21",
+    "customerId": "CUST-0021",
+    "supplierName": "Supplier 66",
+    "supplierId": "SUP-0066",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 33",
+    "customerId": "CUST-0033",
+    "supplierName": "Supplier 81",
+    "supplierId": "SUP-0081",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 26",
+    "customerId": "CUST-0026",
+    "supplierName": "Supplier 20",
+    "supplierId": "SUP-0020",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 33",
+    "customerId": "CUST-0033",
+    "supplierName": "Supplier 95",
+    "supplierId": "SUP-0095",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 35",
+    "customerId": "CUST-0035",
+    "supplierName": "Supplier 40",
+    "supplierId": "SUP-0040",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 38",
+    "customerId": "CUST-0038",
+    "supplierName": "Supplier 118",
+    "supplierId": "SUP-0118",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 31",
+    "customerId": "CUST-0031",
+    "supplierName": "Supplier 120",
+    "supplierId": "SUP-0120",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 8",
+    "customerId": "CUST-0008",
+    "supplierName": "Supplier 36",
+    "supplierId": "SUP-0036",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 4",
+    "customerId": "CUST-0004",
+    "supplierName": "Supplier 6",
+    "supplierId": "SUP-0006",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 14",
+    "customerId": "CUST-0014",
+    "supplierName": "Supplier 15",
+    "supplierId": "SUP-0015",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 37",
+    "customerId": "CUST-0037",
+    "supplierName": "Supplier 94",
+    "supplierId": "SUP-0094",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 27",
+    "customerId": "CUST-0027",
+    "supplierName": "Supplier 14",
+    "supplierId": "SUP-0014",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 23",
+    "customerId": "CUST-0023",
+    "supplierName": "Supplier 108",
+    "supplierId": "SUP-0108",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 3",
+    "customerId": "CUST-0003",
+    "supplierName": "Supplier 78",
+    "supplierId": "SUP-0078",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 14",
+    "customerId": "CUST-0014",
+    "supplierName": "Supplier 16",
+    "supplierId": "SUP-0016",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 7",
+    "customerId": "CUST-0007",
+    "supplierName": "Supplier 47",
+    "supplierId": "SUP-0047",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 39",
+    "customerId": "CUST-0039",
+    "supplierName": "Supplier 30",
+    "supplierId": "SUP-0030",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 4",
+    "customerId": "CUST-0004",
+    "supplierName": "Supplier 73",
+    "supplierId": "SUP-0073",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 33",
+    "customerId": "CUST-0033",
+    "supplierName": "Supplier 7",
+    "supplierId": "SUP-0007",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 40",
+    "customerId": "CUST-0040",
+    "supplierName": "Supplier 2",
+    "supplierId": "SUP-0002",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 27",
+    "customerId": "CUST-0027",
+    "supplierName": "Supplier 74",
+    "supplierId": "SUP-0074",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 2",
+    "customerId": "CUST-0002",
+    "supplierName": "Supplier 24",
+    "supplierId": "SUP-0024",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 33",
+    "customerId": "CUST-0033",
+    "supplierName": "Supplier 74",
+    "supplierId": "SUP-0074",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 14",
+    "customerId": "CUST-0014",
+    "supplierName": "Supplier 117",
+    "supplierId": "SUP-0117",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 21",
+    "customerId": "CUST-0021",
+    "supplierName": "Supplier 81",
+    "supplierId": "SUP-0081",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 32",
+    "customerId": "CUST-0032",
+    "supplierName": "Supplier 63",
+    "supplierId": "SUP-0063",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 7",
+    "customerId": "CUST-0007",
+    "supplierName": "Supplier 13",
+    "supplierId": "SUP-0013",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 16",
+    "customerId": "CUST-0016",
+    "supplierName": "Supplier 120",
+    "supplierId": "SUP-0120",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 6",
+    "customerId": "CUST-0006",
+    "supplierName": "Supplier 92",
+    "supplierId": "SUP-0092",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 3",
+    "customerId": "CUST-0003",
+    "supplierName": "Supplier 26",
+    "supplierId": "SUP-0026",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 14",
+    "customerId": "CUST-0014",
+    "supplierName": "Supplier 26",
+    "supplierId": "SUP-0026",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 22",
+    "customerId": "CUST-0022",
+    "supplierName": "Supplier 87",
+    "supplierId": "SUP-0087",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 28",
+    "customerId": "CUST-0028",
+    "supplierName": "Supplier 54",
+    "supplierId": "SUP-0054",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 31",
+    "customerId": "CUST-0031",
+    "supplierName": "Supplier 45",
+    "supplierId": "SUP-0045",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 29",
+    "customerId": "CUST-0029",
+    "supplierName": "Supplier 45",
+    "supplierId": "SUP-0045",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 36",
+    "customerId": "CUST-0036",
+    "supplierName": "Supplier 13",
+    "supplierId": "SUP-0013",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 38",
+    "customerId": "CUST-0038",
+    "supplierName": "Supplier 88",
+    "supplierId": "SUP-0088",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 32",
+    "customerId": "CUST-0032",
+    "supplierName": "Supplier 64",
+    "supplierId": "SUP-0064",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 14",
+    "customerId": "CUST-0014",
+    "supplierName": "Supplier 41",
+    "supplierId": "SUP-0041",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 16",
+    "customerId": "CUST-0016",
+    "supplierName": "Supplier 61",
+    "supplierId": "SUP-0061",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 12",
+    "customerId": "CUST-0012",
+    "supplierName": "Supplier 87",
+    "supplierId": "SUP-0087",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 30",
+    "customerId": "CUST-0030",
+    "supplierName": "Supplier 75",
+    "supplierId": "SUP-0075",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 1",
+    "customerId": "CUST-0001",
+    "supplierName": "Supplier 66",
+    "supplierId": "SUP-0066",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 2",
+    "customerId": "CUST-0002",
+    "supplierName": "Supplier 31",
+    "supplierId": "SUP-0031",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 38",
+    "customerId": "CUST-0038",
+    "supplierName": "Supplier 40",
+    "supplierId": "SUP-0040",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 31",
+    "customerId": "CUST-0031",
+    "supplierName": "Supplier 28",
+    "supplierId": "SUP-0028",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 9",
+    "customerId": "CUST-0009",
+    "supplierName": "Supplier 107",
+    "supplierId": "SUP-0107",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 15",
+    "customerId": "CUST-0015",
+    "supplierName": "Supplier 100",
+    "supplierId": "SUP-0100",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 40",
+    "customerId": "CUST-0040",
+    "supplierName": "Supplier 29",
+    "supplierId": "SUP-0029",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 25",
+    "customerId": "CUST-0025",
+    "supplierName": "Supplier 54",
+    "supplierId": "SUP-0054",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 20",
+    "customerId": "CUST-0020",
+    "supplierName": "Supplier 25",
+    "supplierId": "SUP-0025",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 1",
+    "customerId": "CUST-0001",
+    "supplierName": "Supplier 100",
+    "supplierId": "SUP-0100",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 17",
+    "customerId": "CUST-0017",
+    "supplierName": "Supplier 75",
+    "supplierId": "SUP-0075",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 12",
+    "customerId": "CUST-0012",
+    "supplierName": "Supplier 40",
+    "supplierId": "SUP-0040",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 9",
+    "customerId": "CUST-0009",
+    "supplierName": "Supplier 15",
+    "supplierId": "SUP-0015",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 35",
+    "customerId": "CUST-0035",
+    "supplierName": "Supplier 58",
+    "supplierId": "SUP-0058",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 13",
+    "customerId": "CUST-0013",
+    "supplierName": "Supplier 90",
+    "supplierId": "SUP-0090",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 24",
+    "customerId": "CUST-0024",
+    "supplierName": "Supplier 53",
+    "supplierId": "SUP-0053",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 1",
+    "customerId": "CUST-0001",
+    "supplierName": "Supplier 98",
+    "supplierId": "SUP-0098",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 3",
+    "customerId": "CUST-0003",
+    "supplierName": "Supplier 40",
+    "supplierId": "SUP-0040",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 11",
+    "customerId": "CUST-0011",
+    "supplierName": "Supplier 93",
+    "supplierId": "SUP-0093",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 18",
+    "customerId": "CUST-0018",
+    "supplierName": "Supplier 29",
+    "supplierId": "SUP-0029",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 37",
+    "customerId": "CUST-0037",
+    "supplierName": "Supplier 76",
+    "supplierId": "SUP-0076",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 33",
+    "customerId": "CUST-0033",
+    "supplierName": "Supplier 57",
+    "supplierId": "SUP-0057",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 6",
+    "customerId": "CUST-0006",
+    "supplierName": "Supplier 112",
+    "supplierId": "SUP-0112",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 21",
+    "customerId": "CUST-0021",
+    "supplierName": "Supplier 10",
+    "supplierId": "SUP-0010",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 39",
+    "customerId": "CUST-0039",
+    "supplierName": "Supplier 45",
+    "supplierId": "SUP-0045",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 25",
+    "customerId": "CUST-0025",
+    "supplierName": "Supplier 4",
+    "supplierId": "SUP-0004",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 15",
+    "customerId": "CUST-0015",
+    "supplierName": "Supplier 37",
+    "supplierId": "SUP-0037",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 21",
+    "customerId": "CUST-0021",
+    "supplierName": "Supplier 63",
+    "supplierId": "SUP-0063",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 14",
+    "customerId": "CUST-0014",
+    "supplierName": "Supplier 73",
+    "supplierId": "SUP-0073",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 33",
+    "customerId": "CUST-0033",
+    "supplierName": "Supplier 113",
+    "supplierId": "SUP-0113",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 30",
+    "customerId": "CUST-0030",
+    "supplierName": "Supplier 96",
+    "supplierId": "SUP-0096",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 11",
+    "customerId": "CUST-0011",
+    "supplierName": "Supplier 61",
+    "supplierId": "SUP-0061",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 20",
+    "customerId": "CUST-0020",
+    "supplierName": "Supplier 89",
+    "supplierId": "SUP-0089",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 23",
+    "customerId": "CUST-0023",
+    "supplierName": "Supplier 93",
+    "supplierId": "SUP-0093",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 19",
+    "customerId": "CUST-0019",
+    "supplierName": "Supplier 76",
+    "supplierId": "SUP-0076",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 33",
+    "customerId": "CUST-0033",
+    "supplierName": "Supplier 32",
+    "supplierId": "SUP-0032",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 17",
+    "customerId": "CUST-0017",
+    "supplierName": "Supplier 74",
+    "supplierId": "SUP-0074",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 16",
+    "customerId": "CUST-0016",
+    "supplierName": "Supplier 41",
+    "supplierId": "SUP-0041",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 18",
+    "customerId": "CUST-0018",
+    "supplierName": "Supplier 23",
+    "supplierId": "SUP-0023",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 6",
+    "customerId": "CUST-0006",
+    "supplierName": "Supplier 14",
+    "supplierId": "SUP-0014",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 20",
+    "customerId": "CUST-0020",
+    "supplierName": "Supplier 64",
+    "supplierId": "SUP-0064",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 31",
+    "customerId": "CUST-0031",
+    "supplierName": "Supplier 1",
+    "supplierId": "SUP-0001",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 28",
+    "customerId": "CUST-0028",
+    "supplierName": "Supplier 103",
+    "supplierId": "SUP-0103",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 35",
+    "customerId": "CUST-0035",
+    "supplierName": "Supplier 76",
+    "supplierId": "SUP-0076",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 24",
+    "customerId": "CUST-0024",
+    "supplierName": "Supplier 31",
+    "supplierId": "SUP-0031",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 19",
+    "customerId": "CUST-0019",
+    "supplierName": "Supplier 35",
+    "supplierId": "SUP-0035",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 39",
+    "customerId": "CUST-0039",
+    "supplierName": "Supplier 103",
+    "supplierId": "SUP-0103",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 16",
+    "customerId": "CUST-0016",
+    "supplierName": "Supplier 37",
+    "supplierId": "SUP-0037",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 1",
+    "customerId": "CUST-0001",
+    "supplierName": "Supplier 97",
+    "supplierId": "SUP-0097",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 28",
+    "customerId": "CUST-0028",
+    "supplierName": "Supplier 63",
+    "supplierId": "SUP-0063",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 11",
+    "customerId": "CUST-0011",
+    "supplierName": "Supplier 110",
+    "supplierId": "SUP-0110",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 27",
+    "customerId": "CUST-0027",
+    "supplierName": "Supplier 22",
+    "supplierId": "SUP-0022",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 17",
+    "customerId": "CUST-0017",
+    "supplierName": "Supplier 60",
+    "supplierId": "SUP-0060",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 31",
+    "customerId": "CUST-0031",
+    "supplierName": "Supplier 37",
+    "supplierId": "SUP-0037",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 32",
+    "customerId": "CUST-0032",
+    "supplierName": "Supplier 37",
+    "supplierId": "SUP-0037",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 26",
+    "customerId": "CUST-0026",
+    "supplierName": "Supplier 23",
+    "supplierId": "SUP-0023",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 17",
+    "customerId": "CUST-0017",
+    "supplierName": "Supplier 56",
+    "supplierId": "SUP-0056",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 2",
+    "customerId": "CUST-0002",
+    "supplierName": "Supplier 9",
+    "supplierId": "SUP-0009",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 39",
+    "customerId": "CUST-0039",
+    "supplierName": "Supplier 95",
+    "supplierId": "SUP-0095",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 37",
+    "customerId": "CUST-0037",
+    "supplierName": "Supplier 70",
+    "supplierId": "SUP-0070",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 38",
+    "customerId": "CUST-0038",
+    "supplierName": "Supplier 63",
+    "supplierId": "SUP-0063",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 20",
+    "customerId": "CUST-0020",
+    "supplierName": "Supplier 101",
+    "supplierId": "SUP-0101",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 24",
+    "customerId": "CUST-0024",
+    "supplierName": "Supplier 25",
+    "supplierId": "SUP-0025",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 40",
+    "customerId": "CUST-0040",
+    "supplierName": "Supplier 41",
+    "supplierId": "SUP-0041",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 12",
+    "customerId": "CUST-0012",
+    "supplierName": "Supplier 7",
+    "supplierId": "SUP-0007",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 35",
+    "customerId": "CUST-0035",
+    "supplierName": "Supplier 110",
+    "supplierId": "SUP-0110",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 38",
+    "customerId": "CUST-0038",
+    "supplierName": "Supplier 56",
+    "supplierId": "SUP-0056",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 40",
+    "customerId": "CUST-0040",
+    "supplierName": "Supplier 89",
+    "supplierId": "SUP-0089",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 31",
+    "customerId": "CUST-0031",
+    "supplierName": "Supplier 9",
+    "supplierId": "SUP-0009",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 39",
+    "customerId": "CUST-0039",
+    "supplierName": "Supplier 85",
+    "supplierId": "SUP-0085",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 16",
+    "customerId": "CUST-0016",
+    "supplierName": "Supplier 47",
+    "supplierId": "SUP-0047",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 25",
+    "customerId": "CUST-0025",
+    "supplierName": "Supplier 13",
+    "supplierId": "SUP-0013",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 15",
+    "customerId": "CUST-0015",
+    "supplierName": "Supplier 71",
+    "supplierId": "SUP-0071",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 26",
+    "customerId": "CUST-0026",
+    "supplierName": "Supplier 27",
+    "supplierId": "SUP-0027",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 18",
+    "customerId": "CUST-0018",
+    "supplierName": "Supplier 113",
+    "supplierId": "SUP-0113",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 37",
+    "customerId": "CUST-0037",
+    "supplierName": "Supplier 97",
+    "supplierId": "SUP-0097",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 18",
+    "customerId": "CUST-0018",
+    "supplierName": "Supplier 30",
+    "supplierId": "SUP-0030",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 22",
+    "customerId": "CUST-0022",
+    "supplierName": "Supplier 58",
+    "supplierId": "SUP-0058",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 15",
+    "customerId": "CUST-0015",
+    "supplierName": "Supplier 49",
+    "supplierId": "SUP-0049",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 39",
+    "customerId": "CUST-0039",
+    "supplierName": "Supplier 96",
+    "supplierId": "SUP-0096",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 20",
+    "customerId": "CUST-0020",
+    "supplierName": "Supplier 92",
+    "supplierId": "SUP-0092",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 25",
+    "customerId": "CUST-0025",
+    "supplierName": "Supplier 73",
+    "supplierId": "SUP-0073",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 33",
+    "customerId": "CUST-0033",
+    "supplierName": "Supplier 33",
+    "supplierId": "SUP-0033",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 34",
+    "customerId": "CUST-0034",
+    "supplierName": "Supplier 111",
+    "supplierId": "SUP-0111",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 31",
+    "customerId": "CUST-0031",
+    "supplierName": "Supplier 55",
+    "supplierId": "SUP-0055",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 17",
+    "customerId": "CUST-0017",
+    "supplierName": "Supplier 77",
+    "supplierId": "SUP-0077",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 17",
+    "customerId": "CUST-0017",
+    "supplierName": "Supplier 49",
+    "supplierId": "SUP-0049",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 16",
+    "customerId": "CUST-0016",
+    "supplierName": "Supplier 68",
+    "supplierId": "SUP-0068",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 32",
+    "customerId": "CUST-0032",
+    "supplierName": "Supplier 35",
+    "supplierId": "SUP-0035",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 8",
+    "customerId": "CUST-0008",
+    "supplierName": "Supplier 37",
+    "supplierId": "SUP-0037",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 36",
+    "customerId": "CUST-0036",
+    "supplierName": "Supplier 7",
+    "supplierId": "SUP-0007",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 40",
+    "customerId": "CUST-0040",
+    "supplierName": "Supplier 116",
+    "supplierId": "SUP-0116",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 13",
+    "customerId": "CUST-0013",
+    "supplierName": "Supplier 114",
+    "supplierId": "SUP-0114",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 4",
+    "customerId": "CUST-0004",
+    "supplierName": "Supplier 49",
+    "supplierId": "SUP-0049",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 33",
+    "customerId": "CUST-0033",
+    "supplierName": "Supplier 49",
+    "supplierId": "SUP-0049",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 20",
+    "customerId": "CUST-0020",
+    "supplierName": "Supplier 20",
+    "supplierId": "SUP-0020",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 38",
+    "customerId": "CUST-0038",
+    "supplierName": "Supplier 80",
+    "supplierId": "SUP-0080",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 26",
+    "customerId": "CUST-0026",
+    "supplierName": "Supplier 60",
+    "supplierId": "SUP-0060",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 7",
+    "customerId": "CUST-0007",
+    "supplierName": "Supplier 115",
+    "supplierId": "SUP-0115",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 3",
+    "customerId": "CUST-0003",
+    "supplierName": "Supplier 7",
+    "supplierId": "SUP-0007",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 18",
+    "customerId": "CUST-0018",
+    "supplierName": "Supplier 104",
+    "supplierId": "SUP-0104",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 33",
+    "customerId": "CUST-0033",
+    "supplierName": "Supplier 26",
+    "supplierId": "SUP-0026",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 27",
+    "customerId": "CUST-0027",
+    "supplierName": "Supplier 9",
+    "supplierId": "SUP-0009",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 27",
+    "customerId": "CUST-0027",
+    "supplierName": "Supplier 10",
+    "supplierId": "SUP-0010",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 35",
+    "customerId": "CUST-0035",
+    "supplierName": "Supplier 65",
+    "supplierId": "SUP-0065",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 19",
+    "customerId": "CUST-0019",
+    "supplierName": "Supplier 45",
+    "supplierId": "SUP-0045",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 32",
+    "customerId": "CUST-0032",
+    "supplierName": "Supplier 32",
+    "supplierId": "SUP-0032",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 15",
+    "customerId": "CUST-0015",
+    "supplierName": "Supplier 110",
+    "supplierId": "SUP-0110",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 31",
+    "customerId": "CUST-0031",
+    "supplierName": "Supplier 41",
+    "supplierId": "SUP-0041",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 10",
+    "customerId": "CUST-0010",
+    "supplierName": "Supplier 93",
+    "supplierId": "SUP-0093",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 22",
+    "customerId": "CUST-0022",
+    "supplierName": "Supplier 60",
+    "supplierId": "SUP-0060",
+    "supplyOnService": "DCM"
+  },
+  {
+    "customerName": "Customer 6",
+    "customerId": "CUST-0006",
+    "supplierName": "Supplier 37",
+    "supplierId": "SUP-0037",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 5",
+    "customerId": "CUST-0005",
+    "supplierName": "Supplier 16",
+    "supplierId": "SUP-0016",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 33",
+    "customerId": "CUST-0033",
+    "supplierName": "Supplier 88",
+    "supplierId": "SUP-0088",
+    "supplyOnService": "SCC"
+  },
+  {
+    "customerName": "Customer 34",
+    "customerId": "CUST-0034",
+    "supplierName": "Supplier 50",
+    "supplierId": "SUP-0050",
+    "supplyOnService": "SRC"
+  },
+  {
+    "customerName": "Customer 22",
+    "customerId": "CUST-0022",
+    "supplierName": "Supplier 21",
+    "supplierId": "SUP-0021",
+    "supplyOnService": "SCC"
+  }
+]
